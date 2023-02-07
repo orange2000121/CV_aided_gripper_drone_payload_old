@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "wiringpi.h": "c",
+        "softservo.h": "c",
+        "dji_high_speed_data_channel.h": "c",
+        "test_data_transmission.h": "c",
+        "dji_low_speed_data_channel.h": "c",
+        "dji_typedef.h": "c",
+        "dji_error.h": "c",
+        "gripper.h": "c"
+    }
+}

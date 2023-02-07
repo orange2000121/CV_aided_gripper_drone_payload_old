@@ -1,0 +1,366 @@
+[32m[0.003][core]-[Info]-[DjiCore_Init:95) Payload SDK Version : V3.3.0-beta.0-build.1665 [0m
+[37m[0.004][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[0.004][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[0.004][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	0        [0m
+[37m[0.004][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[0.022][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[31m[0.022][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[0.022][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[0.024][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.025][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.028][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.030][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.031][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.033][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.034][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.036][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.038][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.039][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.041][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[0.043][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[0.043][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.045][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.046][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.047][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.049][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.050][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.052][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.054][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.055][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.061][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.063][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[0.063][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[0.066][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.067][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.069][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.070][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.072][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.073][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.075][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.077][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.078][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.080][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.081][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.083][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[0.083][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[0.084][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.086][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.087][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.089][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.091][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.092][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.094][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.095][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.097][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.098][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.100][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.102][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.103][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[0.104][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[0.105][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.106][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.108][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.109][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.111][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.113][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.114][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.116][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.117][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.118][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.119][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.120][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.122][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[0.123][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[0.125][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.135][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.135][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.155][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.175][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.196][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.216][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.236][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.242][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.242][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.262][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.283][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.303][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.323][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.343][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.349][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.349][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.370][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.390][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.410][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.430][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.450][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.456][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.456][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.476][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.496][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.517][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.537][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.557][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.563][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.563][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.583][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.604][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.624][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.644][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.664][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.670][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.670][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.691][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.711][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.731][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.751][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.771][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.777][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.777][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.797][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.818][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.838][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.858][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.878][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.884][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.884][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.904][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.925][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.945][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.965][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.985][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.991][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.991][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.011][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[1.025][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.026][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.028][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.030][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.031][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[1.032][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[1.033][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.036][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.037][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.040][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.041][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.043][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.044][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.045][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.047][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.048][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.050][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.051][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.053][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[1.053][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[1.054][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.055][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.057][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.058][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.060][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.061][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.063][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.064][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.066][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.067][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.069][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.070][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.071][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.073][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[1.074][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[31m[1.074][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.076][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.077][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.079][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.080][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.081][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.083][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.084][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.086][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.087][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.089][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.090][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.092][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[1.093][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[1.094][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[1.102][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[1.102][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[1.102][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	0        [0m
+[37m[1.102][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[1.104][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[1.104][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.124][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.144][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.164][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.184][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.205][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[1.211][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:1, channelId:0 [0m
+[37m[1.211][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.231][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.251][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.271][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.291][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.312][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:1, channelId:0 [0m
+[37m[1.318][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:1, channelId:0 [0m
+[37m[1.318][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.338][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.358][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.378][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.398][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.419][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:1, channelId:0 [0m
+[37m[1.425][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:1, channelId:0 [0m
+[37m[1.425][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.445][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.465][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.485][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.506][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.526][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:1, channelId:0 [0m
+[37m[1.533][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:1, channelId:0 [0m
+[37m[1.533][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.553][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.573][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.593][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.614][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.634][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:1, channelId:0 [0m
+[37m[1.644][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:1, channelId:0 [0m
+[37m[1.644][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.664][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.684][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.704][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.724][linker]-[Debug]-[DjiProtocol_sdkPack:182) SDK-Send: 0xCA->0x03 0x0000 [0m
+[37m[1.745][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:1, channelId:0 [0m
+[32m[1.745][adapter]-[Info]-[DjiAccessAdapter_Init:162) Try identify UART0 connection failed. Probably because SDK adapter or aircraft not finish init or UART connect error. [0m
+[37m[1.804][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[1.804][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.825][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.845][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.865][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.885][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[1.906][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[1.915][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[1.915][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[1.936][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[1.956][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[1.976][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[1.996][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.016][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[31m[2.025][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.026][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[2.026][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[31m[2.027][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.029][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.031][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.032][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.033][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.035][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.037][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.039][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.041][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.043][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.045][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.046][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[31m[2.048][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.049][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.050][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.052][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.053][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.054][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.056][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.057][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.058][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.059][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.060][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.062][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.063][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.064][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.065][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.066][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[31m[2.066][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.068][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.069][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.070][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.071][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.072][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.074][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.075][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.076][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.077][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.079][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.080][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.081][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.082][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.083][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.085][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.086][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.086][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[31m[2.087][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.088][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.090][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.091][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.092][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.093][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.095][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.096][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.097][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.098][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.099][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.101][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.102][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.103][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.104][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.106][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.107][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.107][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[31m[2.108][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.109][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.111][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.112][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.113][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.114][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.116][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.117][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.118][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.119][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.120][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.122][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.123][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.124][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.125][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[31m[2.127][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.127][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[2.140][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[2.140][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.160][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.180][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.200][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.207][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[2.207][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[2.207][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[2.207][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[2.221][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.241][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[2.247][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[2.247][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.287][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.307][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.327][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.348][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[2.354][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[2.354][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.374][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.394][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.414][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.434][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[2.455][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[2.460][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[2.461][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.481][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.501][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.521][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.541][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.561][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[2.568][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[2.568][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.588][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.608][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.628][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[2.648][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
