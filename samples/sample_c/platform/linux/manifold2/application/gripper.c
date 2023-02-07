@@ -1,3 +1,10 @@
+/*
+舵機的頻率一般為頻率為50HZ，也就是一個20ms左右的時基脈衝，而脈衝的高電平部分一般為0.5ms-2.5ms範圍。
+所以-90°⇒0.5ms, 90°⇒2.5ms
+公式：2000*((2ms/180°)*所轉角度+0.5)/20
+72°: 2000*((2ms/180°)*72+0.5)/20=130
+108°: 2000*((2ms/180°)*108+0.5)/20=170
+*/
 #include <wiringPi.h>
 // #include <softpwm.h>
 #include <stdio.h>
@@ -15,11 +22,11 @@ void gripperSwitch(int open)
     {
     case 0:
         printf("close gripper");
-        pwmWrite(PWM_PIN, 170);// 40度
+        pwmWrite(PWM_PIN, 170);// 108度
         break;
     case 1:
         printf("open gripper");
-        pwmWrite(PWM_PIN, 130);// -40度
+        pwmWrite(PWM_PIN, 130);// 72度
     default:
         break;
     }

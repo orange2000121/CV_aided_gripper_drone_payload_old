@@ -234,6 +234,7 @@ static T_DjiReturnCode ReceiveDataFromMobile(const uint8_t *data, uint16_t len)
     printData[len] = '\0';
     USER_LOG_INFO("receive data from mobile: %s, len:%d.", printData, len);
     DjiTest_WidgetLogAppend("receive data: %s, len:%d.", printData, len);
+    /* --------------------------- 接收到y就打开夹爪，接收到n就关闭夹爪 -------------------------- */
     if(strcmp(printData,"y")==0){
         gripperSwitch(1);
     }else if(strcmp(printData,"n")==0){
