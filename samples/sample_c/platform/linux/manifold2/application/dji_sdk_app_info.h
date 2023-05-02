@@ -35,12 +35,12 @@ extern "C" {
 /* Exported constants --------------------------------------------------------*/
 // ATTENTION: User must goto https://developer.dji.com/user/apps/#all to create your own dji sdk application, get dji sdk application
 // information then fill in the application information here.
-#define USER_APP_NAME               "test"
-#define USER_APP_ID                 "124912"
-#define USER_APP_KEY                "19e6d63afd205eabff9269672e9af13"
-#define USER_APP_LICENSE            "Dxuf5zSgd7+4y3cm4fxA1TatD5DXMIHnamgfN0Za7zuhK+D+MXPR+EgEDad2HuwZIFavd9nuJGrkrTWTQP99So3Q/cdX3rZXy3JaoOyO9fFXRwv5QjxgpuigA7Ft8y3PCg9qMovTiv5jug6XUkyuhTPTNNEh/JzE21H0gX/F5LrnFEMFZNAbdw2j3Zl0M6GHhmWz3aSqP2htL30GWOgQK/TImMhwMN4190gJ+JCzhyeB2qIjZ/p+x1BU4iU+DRahk6Stl9vae5k0UpSGBfeGP+ncHnGMmwq4XhglcYKSUrjTIvLt+LOnG8oZOz/4VOmEcrSXf+3nWZWbUaWkcSKJGg=="
+#define USER_APP_NAME               "gripper"
+#define USER_APP_ID                 "131404"
+#define USER_APP_KEY                "6e4afb2ca8624eecce23cbd6092a0f3"
+#define USER_APP_LICENSE            "MsfmXXOEOwaimbZsnH7xRPSBZhxWxoViJGwsjX4K123KyztPMFQQ/V/oaLRJgjPePanX48Zi3OVcagYv13UktNJnRVW8ZBx3q/5okCjZhUjWFM8Ut5oVMahLMdMsNLLyURzD7DU0nIFT5LsUHgBqagbl0HWlXexP0ev1IjMSgKtA7PkAesKHTzjsH/rych+S8kRJ4MDa45SpsGxQqsrixFylA3E4oogqzeZflx3q9BNGmCkC+D9Ah0KBVLb6XY96UeGtxOyT2ksb6fGeGB9qmwmWSzPmtcR16InpXLVJmuYsNmigDuAAPAb+vcSrv0J6ns3eBmejAXLMFo7oRG5nRA=="
 #define USER_DEVELOPER_ACCOUNT      "danny1.2104@gmail.com"
-#define USER_BAUD_RATE              "921600"
+#define USER_BAUD_RATE              "115200"
 
 /* Exported types ------------------------------------------------------------*/
 

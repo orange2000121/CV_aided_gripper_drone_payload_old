@@ -7,8 +7,8 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/danny/Desktop/payload_master/Payload-SDK/samples/sample_c/platform/linux/common/3rdparty/FindLIBUSB.cmake"
-  "/home/danny/Desktop/payload_master/Payload-SDK/samples/sample_c/platform/linux/common/3rdparty/FindOPUS.cmake"
+  "/home/danny/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/common/3rdparty/FindLIBUSB.cmake"
+  "/home/danny/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/common/3rdparty/FindOPUS.cmake"
   "../CMakeLists.txt"
   "CMakeFiles/3.18.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.18.4/CMakeSystem.cmake"

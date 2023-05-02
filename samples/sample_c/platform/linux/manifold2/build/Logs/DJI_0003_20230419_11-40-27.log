@@ -1,0 +1,1909 @@
+[32m[0.001][core]-[Info]-[DjiCore_Init:95) Payload SDK Version : V3.3.0-beta.0-build.1665 [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	0        [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[0.010][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.010][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.030][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.051][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.071][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.091][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.112][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.116][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.117][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.137][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.157][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.177][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.197][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.217][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.222][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.222][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.242][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.262][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.282][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.302][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.323][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.328][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.328][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.348][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.368][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.388][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.408][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.429][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.434][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.434][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.436][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x03FD [0m
+[37m[0.454][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.464][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[32m[0.464][adapter]-[Info]-[DjiAccessAdapter_Init:171) Identify aircraft series is Matrice 300 Series [0m
+[32m[0.464][adapter]-[Info]-[DjiAccessAdapter_Init:189) Identify mount position type is Payload Port Type [0m
+[37m[0.464][linker]-[Debug]-[DjiCommand_Init:155) config list channel id:2 [0m
+[37m[0.471][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.471][linker]-[Debug]-[DjiCommand_Init:164) add linker node count:1 [0m
+[37m[0.471][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:0 [0m
+[32m[0.471][adapter]-[Info]-[DjiPayloadNegotiate_Start:200) Waiting payload negotiate finished. [0m
+[37m[0.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[0.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[0.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[0.767][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[0.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[0.768][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[37m[1.085][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[1.085][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[1.085][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	0        [0m
+[37m[1.085][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[1.085][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[1.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[1.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[1.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[1.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[1.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[1.266][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[1.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[1.267][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[32m[1.471][adapter]-[Info]-[DjiPayloadNegotiate_Start:204) No need wait negotiate finished [0m
+[37m[1.471][adapter]-[Debug]-[DjiPayloadNegotiate_Start:226) Payload negotiate has finished. [0m
+[37m[1.471][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[1.471][linker]-[Debug]-[DjiCommand_Init:155) config list channel id:2 [0m
+[37m[1.475][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[1.475][linker]-[Debug]-[DjiCommand_Init:164) add linker node count:1 [0m
+[37m[1.476][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:0 [0m
+[32m[1.476][adapter]-[Info]-[DjiPayloadNegotiate_Start:200) Waiting payload negotiate finished. [0m
+[37m[1.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[1.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[1.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[1.767][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[1.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[1.768][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[37m[2.154][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[2.154][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[2.154][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[2.154][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[2.154][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	0        [0m
+[37m[2.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[2.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[2.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[2.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[2.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[2.266][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[2.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[2.267][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[32m[2.476][adapter]-[Info]-[DjiPayloadNegotiate_Start:204) No need wait negotiate finished [0m
+[37m[2.476][adapter]-[Debug]-[DjiPayloadNegotiate_Start:226) Payload negotiate has finished. [0m
+[37m[2.476][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:1 [0m
+[37m[2.476][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:2 [0m
+[37m[2.476][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:3 [0m
+[37m[2.476][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x3C40 [0m
+[37m[2.476][linker]-[Debug]-[DjiCommand_SendAsync:422) Max wait ack item count is 32. [0m
+[32m[2.476][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:411) Updating dji sdk policy file... [0m
+[37m[2.476][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.485][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x05->0xE5 0x3C40 [0m
+[37m[2.486][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:4 [0m
+[37m[2.486][auth]-[Debug]-[DjiIdentityVerify_RequestUpdatePolicyAsyncCallback:366) request update policy file success [0m
+[37m[2.486][linker]-[Debug]-[DjiCommand_DealCmd:735) callback function (cmdset: 0x3C cmdid: 0x40) deal time: 0 ms [0m
+[37m[2.487][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.498][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[2.507][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[2.507][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:237) request upload policy file type:0 [0m
+[37m[2.507][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:250) upload policy file info md5 checksum and version [0m
+[37m[2.507][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0xF4 0x3C40 [0m
+[37m[2.509][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.520][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.525][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[2.525][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[2.525][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:237) request upload policy file type:1 [0m
+[37m[2.525][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:269) request upload policy file data: 0 0 200 [0m
+[37m[2.525][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0xF4 0x3C40 [0m
+[37m[2.531][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.542][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.545][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[2.546][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[2.546][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:237) request upload policy file type:1 [0m
+[37m[2.546][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:269) request upload policy file data: 1 200 200 [0m
+[37m[2.546][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0xF4 0x3C40 [0m
+[37m[2.553][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.566][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[2.566][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[2.566][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:237) request upload policy file type:1 [0m
+[37m[2.567][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:269) request upload policy file data: 2 400 109 [0m
+[37m[2.567][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0xF4 0x3C40 [0m
+[37m[2.586][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[2.587][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[2.587][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:237) request upload policy file type:2 [0m
+[37m[2.587][auth]-[Debug]-[DjiIdentityVerify_RequestUploadPolicyFileHandle:291) request upload policy file success [0m
+[37m[2.587][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0xF4 0x3C40 [0m
+[37m[2.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[2.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[2.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[2.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[2.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[2.768][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[37m[3.230][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[3.230][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[3.230][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[3.230][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[3.230][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[3.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[3.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[3.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[3.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[3.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[3.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[3.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[3.268][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[32m[3.476][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:414) Update dji sdk policy file successfully [0m
+[37m[3.476][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:4 [0m
+[37m[3.476][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:5 [0m
+[37m[3.476][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[3.478][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[3.480][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x03FD [0m
+[37m[3.481][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x03FD len:1 [0m
+[37m[3.481][linker]-[Debug]-[DjiCommand_SendSyncCallback:911) PsdkCommand_SendSyncCallback success [0m
+[37m[3.481][linker]-[Debug]-[DjiCommand_DealCmd:735) callback function (cmdset: 0x03 cmdid: 0xFD) deal time: 0 ms [0m
+[37m[3.481][linker]-[Debug]-[DjiCommand_SendSync:478) sendSync callback success [0m
+[37m[3.481][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3D [0m
+[37m[3.486][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C3D [0m
+[37m[3.487][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C3D len:2 [0m
+[37m[3.487][linker]-[Debug]-[DjiCommand_SendSyncCallback:911) PsdkCommand_SendSyncCallback success [0m
+[37m[3.487][linker]-[Debug]-[DjiCommand_DealCmd:735) callback function (cmdset: 0x3C cmdid: 0x3D) deal time: 0 ms [0m
+[37m[3.487][linker]-[Debug]-[DjiCommand_SendSync:478) sendSync callback success [0m
+[37m[3.487][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[3.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[3.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[3.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[3.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[3.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[3.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[4.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[4.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[4.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[4.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[4.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[4.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[4.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[4.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[4.309][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[4.309][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[4.309][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[4.309][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[4.309][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[4.487][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[4.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[4.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[4.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[4.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[4.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[4.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[5.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[5.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[5.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[5.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[5.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[5.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[5.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[5.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[5.376][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[5.377][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[5.377][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[5.377][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[5.377][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[5.488][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[5.488][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[5.497][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[5.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[5.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[5.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[5.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[5.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[5.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[6.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[6.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[6.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[6.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[6.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[6.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[6.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[6.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[6.453][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[6.453][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[6.453][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[6.453][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[6.453][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[6.489][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[6.489][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[6.497][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[6.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[6.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[6.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[6.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[6.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[6.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[7.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[7.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[7.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[7.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[7.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[7.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[7.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[7.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[7.490][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[7.490][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[7.500][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[7.519][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[7.519][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[7.519][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[7.519][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[7.519][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[7.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[7.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[7.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[7.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[7.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[7.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[8.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[8.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[8.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[8.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[8.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[8.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[8.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[8.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[8.491][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[8.491][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[8.491][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[8.491][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[8.491][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[8.491][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[8.502][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[8.513][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[8.524][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[8.534][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[8.586][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[8.586][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[8.586][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[8.586][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[8.586][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[8.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[8.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[8.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[8.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[8.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[8.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[9.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[9.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[9.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[9.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[9.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[9.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[9.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[9.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[9.491][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[9.656][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[9.656][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[9.656][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[9.656][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[9.656][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[9.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[9.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[9.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[9.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[9.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[9.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[10.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[10.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[10.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[10.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[10.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[10.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[10.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[10.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[10.492][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[10.492][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[10.496][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[10.728][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[10.728][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[10.728][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[10.728][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[10.728][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[10.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[10.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[10.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[10.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[10.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[10.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[11.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[11.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[11.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[11.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[11.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[11.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[11.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[11.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[11.493][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[11.493][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[11.499][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[11.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[11.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[11.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[11.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[11.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[11.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[11.796][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[11.796][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[11.796][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[11.796][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[11.796][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[12.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[12.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[12.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[12.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[12.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[12.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[12.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[12.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[12.494][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[12.494][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[12.503][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[12.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[12.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[12.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[12.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[12.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[12.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[12.863][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[12.863][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[12.863][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[12.863][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[12.863][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[13.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[13.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[13.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[13.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[13.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[13.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[13.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[13.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[13.495][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[13.495][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[13.495][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[13.495][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[13.495][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[13.495][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[13.505][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[13.516][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[13.526][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[13.537][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[13.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[13.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[13.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[13.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[13.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[13.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[13.930][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[13.930][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[13.930][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[13.930][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[13.930][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[14.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[14.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[14.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[14.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[14.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[14.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[14.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[14.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[14.495][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[14.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[14.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[14.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[14.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[14.769][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[14.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[15.011][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[15.011][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[15.011][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[15.011][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[15.011][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[15.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[15.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[15.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[15.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[15.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[15.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[15.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[15.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[15.496][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[15.496][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[15.505][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[15.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[15.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[15.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[15.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[15.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[15.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[16.105][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[16.105][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[16.105][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[16.105][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[16.105][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[16.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[16.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[16.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[16.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[16.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[16.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[16.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[16.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[16.497][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[16.497][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[16.503][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[16.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[16.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[16.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[16.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[16.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[16.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[17.173][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[17.173][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[17.173][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[17.173][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[17.173][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[17.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[17.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[17.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[17.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[17.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[17.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[17.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[17.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[17.498][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[17.499][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[17.506][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[17.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[17.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[17.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[17.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[17.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[17.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[18.240][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[18.240][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[18.240][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[18.240][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[18.240][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[18.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[18.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[18.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[18.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[18.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[18.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[18.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[18.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[18.499][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[31m[18.499][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[18.499][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[18.499][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[18.499][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[18.499][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[37m[18.510][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[18.521][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[18.531][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[18.542][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[18.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[18.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[18.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[18.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[18.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[18.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[19.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[19.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[19.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[19.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[19.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[19.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[19.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[19.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[19.309][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[19.309][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[19.309][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[19.309][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[19.309][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[19.499][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[19.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[19.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[19.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[19.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[19.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[19.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[20.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[20.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[20.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[20.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[20.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[20.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[20.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[20.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[20.375][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[20.375][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[20.375][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[20.375][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[20.375][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[20.500][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[20.500][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[20.506][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[20.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[20.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[20.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[20.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[20.769][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[20.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[21.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[21.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[21.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[21.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[21.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[21.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[21.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[21.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[21.450][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[21.450][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[21.450][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[21.451][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[21.451][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[21.501][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[21.501][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[21.507][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[21.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[21.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[21.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[21.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[21.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[21.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[22.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[22.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[22.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[22.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[22.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[22.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[22.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[22.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[22.502][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[22.503][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[22.510][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[22.519][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[22.519][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[22.519][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[22.519][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[22.519][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[22.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[22.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[22.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[22.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[22.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[22.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[23.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[23.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[23.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[23.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[23.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[23.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[23.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[23.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[23.503][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[23.503][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[23.503][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[23.503][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[23.503][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[23.503][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[23.505][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[23.516][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[23.527][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[23.537][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[23.589][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[23.589][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[23.589][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[23.589][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[23.589][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[23.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[23.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[23.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[23.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[23.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[23.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[24.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[24.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[24.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[24.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[24.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[24.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[24.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[24.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[24.503][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[24.658][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[24.658][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[24.658][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[24.658][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[24.658][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[24.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[24.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[24.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[24.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[24.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[24.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[25.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[25.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[25.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[25.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[25.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[25.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[25.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[25.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[25.504][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[25.504][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[25.505][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[25.727][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[25.727][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[25.727][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[25.727][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[25.727][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[25.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[25.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[25.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[25.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[25.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[25.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[26.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[26.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[26.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[26.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[26.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[26.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[26.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[26.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[26.506][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[26.506][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[26.510][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[26.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[26.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[26.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[26.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[26.769][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[26.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[26.814][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[26.814][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[26.814][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[26.814][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[26.814][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[27.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[27.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[27.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[27.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[27.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[27.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[27.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[27.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[27.507][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[27.507][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[27.513][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[27.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[27.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[27.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[27.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[27.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[27.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[27.902][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[27.902][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[27.902][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[27.902][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[27.902][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[28.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[28.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[28.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[28.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[28.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[28.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[28.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[28.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[28.508][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[28.508][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[28.508][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[28.508][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[28.508][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[28.508][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[28.515][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[28.527][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[28.538][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[28.549][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[28.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[28.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[28.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[28.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[28.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[28.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[28.992][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[28.992][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[28.992][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[28.992][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[28.992][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[29.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[29.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[29.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[29.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[29.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[29.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[29.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[29.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[29.508][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[29.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[29.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[29.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[29.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[29.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[29.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[30.083][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[30.083][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[30.083][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[30.083][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[30.083][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[30.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[30.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[30.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[30.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[30.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[30.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[30.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[30.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[30.510][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[30.510][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[30.511][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[30.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[30.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[30.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[30.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[30.769][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[30.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[31.173][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[31.173][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[31.173][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[31.173][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[31.173][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[31.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[31.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[31.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[31.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[31.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[31.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[31.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[31.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[31.511][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[31.511][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[31.517][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[31.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[31.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[31.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[31.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[31.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[31.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[32.241][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[32.242][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[32.242][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[32.242][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[32.242][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[32.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[32.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[32.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[32.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[32.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[32.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[32.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[32.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[32.512][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[32.512][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[32.521][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[32.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[32.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[32.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[32.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[32.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[32.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[33.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[33.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[33.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[33.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[33.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[33.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[33.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[33.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[33.312][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[33.312][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[33.312][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[33.312][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[33.312][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[31m[33.513][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[31m[33.513][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[33.513][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[33.513][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[33.513][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[33.514][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 1 ms [0m
+[37m[33.518][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[33.529][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[33.540][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[33.550][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[33.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[33.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[33.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[33.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[33.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[33.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[34.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[34.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[34.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[34.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[34.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[34.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[34.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[34.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[34.383][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[34.383][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[34.383][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[34.383][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[34.383][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[34.514][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[34.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[34.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[34.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[34.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[34.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[34.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[35.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[35.261][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[35.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[35.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[35.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[35.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[35.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[35.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[35.451][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[35.451][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[35.451][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[35.451][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[35.451][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[33m[35.515][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[35.515][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[35.518][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[35.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[35.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[35.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[35.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[35.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[35.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[36.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[36.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[36.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[36.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[36.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[36.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[36.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[36.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[36.516][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[36.516][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[36.520][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[36.528][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[36.528][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[36.528][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[36.528][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[36.528][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[36.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[36.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[36.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[36.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[36.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[36.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[37.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[37.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[37.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[37.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[37.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[37.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[37.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[37.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[37.517][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[37.517][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[37.519][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[37.615][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[37.615][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[37.615][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[37.615][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[37.615][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[37.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[37.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[37.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[37.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[37.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[37.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[38.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[38.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[38.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[38.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[38.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[38.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[38.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[38.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[38.518][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[31m[38.518][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[38.518][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[38.518][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[38.518][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[37m[38.518][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[38.521][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[38.532][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[38.543][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[38.553][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[38.704][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[38.704][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[38.704][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[38.704][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[38.704][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[38.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[38.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[38.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[38.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[38.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[38.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[39.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[39.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[39.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[39.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[39.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[39.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[39.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[39.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[39.519][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[39.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[39.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[39.765][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[39.765][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[39.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[39.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[39.793][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[39.793][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[39.793][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[39.793][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[39.793][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[40.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[40.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[40.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[40.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[40.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[40.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[40.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[40.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[40.520][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[40.520][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[40.526][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[40.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[40.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[40.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[40.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[40.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[40.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[40.884][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[40.884][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[40.884][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[40.884][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[40.884][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[41.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[41.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[41.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[41.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[41.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[41.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[41.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[41.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[41.521][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[41.521][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[41.526][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[41.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[41.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[41.765][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[41.765][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[41.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[41.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[41.962][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[41.962][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[41.962][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[41.962][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[41.962][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[42.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[42.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[42.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[42.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[42.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[42.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[42.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[42.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[42.522][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[42.522][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[42.531][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[42.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[42.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[42.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[42.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[42.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[42.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[43.031][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[43.031][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[43.031][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[43.031][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[43.031][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[43.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[43.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[43.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[43.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[43.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[43.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[43.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[43.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[43.523][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[43.523][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[43.523][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[43.523][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[43.523][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[43.523][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[43.526][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[43.536][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[43.547][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[43.558][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[43.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[43.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[43.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[43.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[43.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[43.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[44.100][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[44.101][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[44.101][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[44.101][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[44.101][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[44.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[44.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[44.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[44.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[44.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[44.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[44.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[44.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[44.524][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[44.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[44.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[44.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[44.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[44.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[44.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[45.171][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[45.171][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[45.171][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[45.171][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[45.171][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[45.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[45.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[45.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[45.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[45.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[45.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[45.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[45.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[45.525][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[45.525][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[45.536][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[45.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[45.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[45.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[45.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[45.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[45.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[46.241][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[46.241][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[46.241][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[46.241][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[46.241][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[46.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[46.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[46.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[46.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[46.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[46.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[46.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[46.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[46.526][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[46.526][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[46.528][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[46.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[46.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[46.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[46.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[46.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[46.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[47.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[47.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[47.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[47.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[47.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[47.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[47.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[47.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[47.333][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[47.333][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[47.333][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[47.333][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[47.333][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[47.527][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[47.527][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[47.533][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[47.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[47.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[47.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[47.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[47.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[47.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[48.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[48.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[48.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[48.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[48.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[48.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[48.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[48.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[48.425][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[48.425][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[48.425][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[48.425][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[48.425][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[31m[48.528][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[48.529][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 1 ms [0m
+[31m[48.529][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[48.529][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[48.529][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[48.529][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[48.536][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[48.547][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[48.558][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[48.569][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[48.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[48.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[48.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[48.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[48.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[48.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[49.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[49.261][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[49.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[49.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[49.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[49.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[49.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[49.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[49.516][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[49.516][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[49.516][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[49.516][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[49.516][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[49.529][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[49.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[49.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[49.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[49.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[49.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[49.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[50.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[50.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[50.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[50.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[50.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[50.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[50.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[50.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[50.530][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[50.530][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[50.533][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[50.607][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[50.607][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[50.607][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[50.607][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[50.607][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[50.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[50.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[50.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[50.767][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[50.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[50.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[51.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[51.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[51.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[51.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[51.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[51.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[51.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[51.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[51.531][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[51.531][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[51.535][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[51.697][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[51.697][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[51.697][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[51.697][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[51.697][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[51.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[51.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[51.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[51.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[51.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[51.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[52.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[52.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[52.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[52.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[52.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[52.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[52.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[52.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[52.532][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[52.532][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[52.539][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[52.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[52.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[52.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[52.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[52.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[52.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[52.790][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[52.790][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[52.790][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[52.790][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[52.790][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[53.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[53.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[53.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[53.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[53.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[53.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[53.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[53.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[53.533][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[31m[53.533][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[53.533][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[53.533][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[53.533][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[53.533][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[37m[53.544][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[53.555][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[53.566][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[53.577][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[53.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[53.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[53.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[53.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[53.769][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[53.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[53.883][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[53.883][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[53.884][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[53.884][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[53.884][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[54.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[54.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[54.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[54.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[54.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[54.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[54.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[54.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[54.533][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[54.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[54.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[54.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[54.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[54.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[54.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[54.973][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[54.973][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[54.973][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[54.973][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[54.973][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[55.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[55.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[55.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[55.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[55.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[55.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[55.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[55.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[55.534][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[55.534][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[55.541][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[55.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[55.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[55.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[55.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[55.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[55.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[56.062][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[56.062][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[56.062][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[56.062][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[56.062][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[56.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[56.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[56.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[56.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[56.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[56.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[56.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[56.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[56.535][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[56.535][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[56.539][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[56.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[56.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[56.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[56.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[56.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[56.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[57.138][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[57.138][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[57.139][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[57.139][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[57.139][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[57.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[57.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[57.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[57.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[57.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[57.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[57.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[57.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[57.536][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[57.536][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[57.547][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[57.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[57.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[57.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[57.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[57.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[57.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[58.206][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[58.206][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[58.206][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[58.206][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[58.206][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[58.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[58.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[58.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[58.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[58.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[58.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[58.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[58.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[58.537][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[58.537][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[58.537][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[58.537][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[58.537][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[58.537][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[58.539][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[58.550][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[58.561][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[58.572][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[58.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[58.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[58.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[58.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[58.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[58.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[59.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[59.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[59.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[59.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[59.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[59.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[59.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[59.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[59.275][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[59.275][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[59.275][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[59.275][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[59.275][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[59.537][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[59.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[59.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[59.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[59.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[59.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[59.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[60.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[60.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[60.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[60.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[60.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[60.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[60.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[60.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[60.341][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[60.341][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[60.341][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[60.341][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[60.341][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[60.538][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[60.538][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[60.546][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[60.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[60.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[60.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[60.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[60.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[60.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[61.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[61.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[61.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[61.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[61.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[61.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[61.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[61.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[61.412][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[61.413][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[61.413][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[61.413][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[61.413][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[61.539][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[61.539][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[61.546][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[61.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[61.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[61.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[61.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[61.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[61.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[62.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[62.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[62.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[62.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[62.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[62.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[62.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[62.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[62.492][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[62.492][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[62.492][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[62.492][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[62.492][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[62.540][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[62.540][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[62.548][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[62.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[62.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[62.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[62.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[62.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[62.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[63.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[63.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[63.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[63.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[63.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[63.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[63.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[63.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[63.541][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[63.541][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[63.541][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[63.541][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[63.541][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[63.541][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[63.552][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[63.560][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[63.560][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[63.560][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[63.560][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[63.560][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[63.562][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[63.573][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[63.584][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[63.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[63.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[63.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[63.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[63.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[63.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[64.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[64.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[64.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[64.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[64.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[64.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[64.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[64.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[64.541][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[64.627][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[64.627][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[64.627][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[64.627][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[64.627][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[64.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[64.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[64.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[64.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[64.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[64.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[65.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[65.261][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[65.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[65.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[65.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[65.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[65.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[65.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[65.542][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[65.542][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[65.547][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[65.694][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[65.694][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[65.694][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[65.694][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[65.694][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[65.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[65.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[65.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[65.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[65.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[65.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[66.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[66.261][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[66.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[66.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[66.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[66.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[66.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[66.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[66.543][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[66.543][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[66.551][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[66.762][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[66.762][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[66.762][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[66.762][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[66.762][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[66.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[66.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[66.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[66.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[66.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[66.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[67.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[67.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[67.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[67.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[67.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[67.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[67.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[67.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[67.544][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[67.544][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[67.545][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[67.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[67.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[67.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[67.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[67.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[67.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[67.848][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[67.848][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[67.848][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[67.848][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[67.848][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[68.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[68.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[68.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[68.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[68.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[68.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[68.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[68.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[68.545][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[31m[68.545][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[68.545][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[68.545][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[68.545][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[68.545][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[37m[68.549][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[68.560][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[68.571][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[68.581][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[68.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[68.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[68.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[68.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[68.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[68.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[68.922][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[68.922][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[68.922][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[68.922][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[68.922][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[69.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[69.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[69.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[69.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[69.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[69.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[69.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[69.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[69.545][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[69.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[69.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[69.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[69.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[69.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[69.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[69.993][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[69.993][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[69.993][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[69.993][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[69.993][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[70.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[70.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[70.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[70.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[70.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[70.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[70.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[70.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[70.546][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[70.546][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[70.549][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[70.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[70.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[70.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[70.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[70.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[70.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[71.059][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[71.059][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[71.059][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[71.059][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[71.059][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[71.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[71.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[71.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[71.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[71.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[71.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[71.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[71.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[71.547][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[71.547][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[71.554][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[71.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[71.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[71.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[71.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[71.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[71.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[72.128][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[72.128][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[72.128][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[72.128][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[72.128][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[72.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[72.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[72.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[72.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[72.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[72.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[72.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[72.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[72.548][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[72.548][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[72.558][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[72.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[72.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[72.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[72.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[72.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[72.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[73.200][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[73.200][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[73.200][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[73.200][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[73.200][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[37m[73.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[73.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[73.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[73.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[73.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[73.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[73.268][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[73.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[73.549][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[31m[73.550][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[73.550][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[73.550][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[73.550][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[73.550][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[37m[73.553][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[73.564][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[73.575][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[73.586][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[73.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[73.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[73.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[73.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[73.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[73.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[74.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[74.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[74.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[74.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[74.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[74.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[74.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[74.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[74.285][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[74.285][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[74.285][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[74.285][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[74.285][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[74.550][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[74.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[74.765][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[74.765][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[74.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[74.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[74.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[75.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[75.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[75.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[75.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[75.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[75.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[75.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[75.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[75.352][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[75.352][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[75.352][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[75.352][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[75.352][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[33m[75.551][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[75.551][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[75.557][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[75.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[75.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[75.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[75.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[75.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[75.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[76.261][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[76.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[76.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[76.266][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[76.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[76.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[76.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[76.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[76.423][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[76.423][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[76.423][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[76.423][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[76.423][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[33m[76.552][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50 [0m
+[37m[76.552][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[76.553][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[76.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[76.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[76.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[76.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[76.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[76.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[77.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[77.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[77.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[77.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[77.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[77.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[77.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[77.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[77.489][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[77.489][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[77.490][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[77.490][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[77.490][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	1        [0m
+[33m[77.553][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50 [0m
+[37m[77.553][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[77.556][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[77.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[77.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[77.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[77.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[77.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[77.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[78.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[78.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[78.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[78.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[78.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[78.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[78.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[78.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[31m[78.554][linker]-[Error]-[DjiCommand_SendAsyncHandle:872) Command async send error 0 [0m
+[37m[78.554][linker]-[Debug]-[DjiCommand_SendAsyncHandle:891) Timeout func deal about: 0 ms [0m
+[31m[78.554][linker]-[Error]-[DjiCommand_SendSync:475) sendSync callback timeout [0m
+[31m[78.554][infor]-[Error]-[DjiMountPosition_GetOnPayloadPort:89) get payload mount position error: 0x000000E1. [0m
+[31m[78.554][infor]-[Error]-[DjiAircraftInfo_Init:241) Get sdk mount position error. Probably the DJI SDK Adpater has not binded. Please check the bind state of the DJI SDK Adpater and bind it.  [0m
+[37m[78.554][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[78.559][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[78.568][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[78.568][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[78.568][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[78.568][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[78.568][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[78.570][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[78.581][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[78.592][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[78.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[78.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[78.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[78.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[78.768][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[78.768][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[79.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[79.262][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[79.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[79.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[79.265][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[79.265][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[79.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[79.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[79.554][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[79.642][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[79.642][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[79.642][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[79.642][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[79.642][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[79.765][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[79.766][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[79.766][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[79.766][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[79.767][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[79.767][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[37m[80.262][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[80.263][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[80.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[80.265][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[80.266][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[80.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C36 [0m
+[37m[80.267][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[80.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C43 [0m
+[33m[80.555][linker]-[Warn]-[DjiCommand_SendAsyncHandle:860) Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50 [0m
+[37m[80.555][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x1932 [0m
+[37m[80.564][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m

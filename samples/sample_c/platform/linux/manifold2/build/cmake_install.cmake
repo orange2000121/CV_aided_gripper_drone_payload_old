@@ -1,4 +1,4 @@
-# Install script for directory: /home/danny/Desktop/payload_master/Payload-SDK/samples/sample_c/platform/linux/manifold2
+# Install script for directory: /home/danny/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/danny/Desktop/payload_master/Payload-SDK/samples/sample_c/platform/linux/manifold2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/danny/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

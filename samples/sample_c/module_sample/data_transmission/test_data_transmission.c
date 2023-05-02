@@ -25,7 +25,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include <stdio.h>
-#include "gripper.h"
+#include "../gripper/gripper.h"
 #include "test_data_transmission.h"
 #include "dji_logger.h"
 #include "dji_platform.h"
