@@ -30,6 +30,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "dji_liveview.h"
 #include <map>
+#include <stdexcept>
 #include "dji_camera_stream_decoder.hpp"
 
 #ifdef __cplusplus

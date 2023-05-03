@@ -42,7 +42,7 @@ extern "C" {
 #ifdef PLATFORM_ARCH_x86_64
 #define LINUX_NETWORK_DEV           "enx000ec6688213"
 #else
-#define LINUX_NETWORK_DEV           "l4tbr0"
+#define LINUX_NETWORK_DEV           "wlan0"
 #endif
 /**
  * @attention

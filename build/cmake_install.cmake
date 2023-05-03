@@ -1,4 +1,4 @@
-# Install script for directory: /home/danny/Desktop/CV_aided_gripper_drone_payload
+# Install script for directory: /home/airlab/Desktop/CV_aided_gripper_drone_payload
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,11 +37,6 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/objdump")
-endif()
-
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
    "/usr/local/lib/libpayloadsdk.a")
@@ -51,7 +46,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/usr/local/lib" TYPE FILE FILES "/home/danny/Desktop/CV_aided_gripper_drone_payload/psdk_lib/lib/aarch64-linux-gnu-gcc/libpayloadsdk.a")
+file(INSTALL DESTINATION "/usr/local/lib" TYPE FILE FILES "/home/airlab/Desktop/CV_aided_gripper_drone_payload/psdk_lib/lib/aarch64-linux-gnu-gcc/libpayloadsdk.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -63,13 +58,13 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/usr/local" TYPE DIRECTORY FILES "/home/danny/Desktop/CV_aided_gripper_drone_payload/psdk_lib/include")
+file(INSTALL DESTINATION "/usr/local" TYPE DIRECTORY FILES "/home/airlab/Desktop/CV_aided_gripper_drone_payload/psdk_lib/include")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/danny/Desktop/CV_aided_gripper_drone_payload/build/samples/sample_c/platform/linux/manifold2/cmake_install.cmake")
-  include("/home/danny/Desktop/CV_aided_gripper_drone_payload/build/samples/sample_c++/platform/linux/manifold2/cmake_install.cmake")
+  include("/home/airlab/Desktop/CV_aided_gripper_drone_payload/build/samples/sample_c/platform/linux/manifold2/cmake_install.cmake")
+  include("/home/airlab/Desktop/CV_aided_gripper_drone_payload/build/samples/sample_c++/platform/linux/manifold2/cmake_install.cmake")
 
 endif()
 
@@ -81,5 +76,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/danny/Desktop/CV_aided_gripper_drone_payload/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/airlab/Desktop/CV_aided_gripper_drone_payload/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
