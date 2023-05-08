@@ -1,0 +1,1844 @@
+[32m[0.001][core]-[Info]-[DjiCore_Init:95) Payload SDK Version : V3.3.0-beta.0-build.1665 [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	0        [0m
+[37m[0.002][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	0        [0m
+[37m[0.010][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.010][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.030][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.050][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.070][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.090][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xCA->0x03 0x03FD [0m
+[37m[0.111][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.115][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.115][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.136][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.156][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.176][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.196][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.216][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.220][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.220][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.241][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.261][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.281][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.301][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.321][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.325][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.325][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.345][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.366][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.386][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.406][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.426][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[0.430][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.430][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.436][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x03FD [0m
+[37m[0.450][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x03FD [0m
+[37m[0.450][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[32m[0.450][adapter]-[Info]-[DjiAccessAdapter_Init:171) Identify aircraft series is Matrice 300 Series [0m
+[32m[0.450][adapter]-[Info]-[DjiAccessAdapter_Init:189) Identify mount position type is Payload Port Type [0m
+[37m[0.450][linker]-[Debug]-[DjiCommand_Init:155) config list channel id:2 [0m
+[37m[0.455][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[0.455][linker]-[Debug]-[DjiCommand_Init:164) add linker node count:1 [0m
+[37m[0.455][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:0 [0m
+[32m[0.455][adapter]-[Info]-[DjiPayloadNegotiate_Start:200) Waiting payload negotiate finished. [0m
+[37m[0.456][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x03FD [0m
+[37m[0.457][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x03FD len:1 [0m
+[37m[0.457][linker]-[Debug]-[DjiCommand_DealCmd:754) Received invalid ack, 0x65E503FD 1 [0m
+[37m[0.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[0.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[0.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C37 [0m
+[37m[0.507][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[0.507][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[0.508][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[0.508][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[37m[0.509][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C37 len:16 [0m
+[37m[0.509][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x37 [0m
+[37m[0.621][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[0.622][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[0.622][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x40 [0m
+[37m[1.077][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[1.077][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[1.077][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[1.077][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[1.077][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[32m[1.455][adapter]-[Info]-[DjiPayloadNegotiate_Start:204) No need wait negotiate finished [0m
+[37m[1.455][adapter]-[Debug]-[DjiPayloadNegotiate_Start:226) Payload negotiate has finished. [0m
+[37m[1.455][linker]-[Debug]-[DjiLinker_DeInit:164) deinit linker success, protocol:2, channelId:0 [0m
+[37m[1.455][linker]-[Debug]-[DjiCommand_Init:155) config list channel id:2 [0m
+[37m[1.459][linker]-[Debug]-[DjiLinker_Init:124) init linker success, protocol:2, channelId:0 [0m
+[37m[1.459][linker]-[Debug]-[DjiCommand_Init:164) add linker node count:1 [0m
+[37m[1.459][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:0 [0m
+[32m[1.459][adapter]-[Info]-[DjiPayloadNegotiate_Start:200) Waiting payload negotiate finished. [0m
+[37m[1.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[1.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[1.506][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C37 [0m
+[37m[1.507][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[1.507][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[1.508][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[1.508][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[37m[1.509][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C37 len:16 [0m
+[37m[1.509][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x37 [0m
+[37m[1.821][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0xF4->0xE5 0x3C40 [0m
+[37m[1.821][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:12 [0m
+[37m[1.821][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x40 [0m
+[37m[2.003][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0x04 0x3C10 [0m
+[37m[2.003][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C10 len:64 [0m
+[37m[2.006][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C36 [0m
+[37m[2.006][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C43 [0m
+[37m[2.006][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C36 len:0 [0m
+[37m[2.006][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x36 [0m
+[37m[2.007][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x65->0xE5 0x3C37 [0m
+[37m[2.007][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C43 len:0 [0m
+[37m[2.007][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x43 [0m
+[37m[2.009][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C37 len:16 [0m
+[37m[2.009][linker]-[Debug]-[DjiCommand_DealCmd:821) received unsupport request cmd that need ack, cmdset: 0x3C cmdid: 0x37 [0m
+[37m[2.145][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[2.145][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[2.145][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	0       	1        [0m
+[37m[2.145][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[2.145][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	0       	0        [0m
+[32m[2.459][adapter]-[Info]-[DjiPayloadNegotiate_Start:204) No need wait negotiate finished [0m
+[37m[2.459][adapter]-[Debug]-[DjiPayloadNegotiate_Start:226) Payload negotiate has finished. [0m
+[37m[2.459][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:1 [0m
+[37m[2.459][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:2 [0m
+[37m[2.460][linker]-[Debug]-[DjiCommand_RegRecvCmdHandler:599) Reg command handle list success, index:3 [0m
+[37m[2.460][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x05 0x3C40 [0m
+[37m[2.460][linker]-[Debug]-[DjiCommand_SendAsync:422) Max wait ack item count is 32. [0m
+[32m[2.460][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:411) Updating dji sdk policy file... [0m
+[37m[2.460][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[37m[2.465][linker]-[Debug]-[DjiProtocol_v1Unpack:205) V1-Recv: 0x05->0xE5 0x3C40 [0m
+[37m[2.466][linker]-[Debug]-[DjiCommand_RecvWork:958) Receive msg from linker, id:0x3C40 len:4 [0m
+[37m[2.466][auth]-[Debug]-[DjiIdentityVerify_RequestUpdatePolicyAsyncCallback:366) request update policy file success [0m
+[37m[2.466][linker]-[Debug]-[DjiCommand_DealCmd:735) callback function (cmdset: 0x3C cmdid: 0x40) deal time: 0 ms [0m
+[37m[2.471][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.480][linker]-[Error]-[DjiChannel_uartRead:88) uart read data error [0m
+[37m[2.482][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.483][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.483][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.483][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.494][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.494][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.494][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.494][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.505][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.505][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.505][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.505][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.516][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.516][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.516][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.516][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.527][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.527][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.527][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.527][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.538][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.539][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.539][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.539][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.549][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.549][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.549][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.549][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.561][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.561][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.561][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.561][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.572][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.572][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.572][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.572][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.583][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.583][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.583][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.583][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.593][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.593][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.593][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.593][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.604][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.604][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.604][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.604][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.615][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.615][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.615][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.615][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.626][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.626][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.626][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.626][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.637][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.637][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.637][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.637][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.648][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.648][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.648][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.648][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.659][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.659][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.659][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.659][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.669][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.669][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.670][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.670][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.680][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.681][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.681][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.681][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.692][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.692][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.692][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.692][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.703][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.703][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.704][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.704][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.715][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.715][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.715][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.715][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.726][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.727][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.727][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.727][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.738][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.738][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.738][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.738][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.749][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.750][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.750][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.750][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.761][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.761][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.762][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.762][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.773][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.773][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.773][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.773][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.784][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.784][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.784][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.784][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.797][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.797][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.797][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.797][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.808][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.808][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.808][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.808][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.819][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.819][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.819][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.819][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.830][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.830][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.830][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.830][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.841][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.841][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.841][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.841][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.852][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.852][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.852][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.852][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.863][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.863][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.863][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.863][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.874][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.874][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.874][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.874][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.885][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.885][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.885][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.885][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.895][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.896][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.896][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.896][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.906][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.906][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.906][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.906][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.917][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.917][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.917][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.917][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.928][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.928][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.928][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.928][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.939][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.939][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.939][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.939][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.950][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.950][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.950][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.950][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.961][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.961][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.961][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.961][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.972][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.972][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.972][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.972][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.983][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.983][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.983][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.983][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[2.994][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[2.994][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[2.994][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[2.994][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.005][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.005][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.005][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.005][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.016][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.016][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.016][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.016][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.027][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.027][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.027][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.027][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.037][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.037][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.038][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.038][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.048][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.048][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.048][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.048][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.059][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.059][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.059][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.059][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.070][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.070][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.070][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.070][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.081][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.081][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.081][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.081][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.092][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.092][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.092][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.092][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.103][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.103][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.103][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.103][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.114][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.114][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.114][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.114][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.125][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.125][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.125][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.125][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.136][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.136][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.136][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.136][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.147][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.147][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.147][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.147][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.158][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.158][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.158][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.158][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.169][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.169][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.169][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.169][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.180][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.180][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.180][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.180][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.190][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.190][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.191][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.191][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.202][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.202][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.202][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.202][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.212][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.212][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.212][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.212][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.223][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.223][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.223][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.223][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.234][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.234][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.234][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.234][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.242][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[3.242][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[3.242][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[3.242][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	1       	1        [0m
+[37m[3.242][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[3.245][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.245][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.245][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.245][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.256][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.256][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.256][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.256][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.267][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.267][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.267][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.267][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.278][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.278][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.278][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.278][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.289][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.289][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.289][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.289][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.300][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.300][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.300][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.300][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.311][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.311][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.311][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.311][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.322][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.322][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.322][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.322][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.333][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.333][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.333][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.333][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.344][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.344][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.344][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.344][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.355][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.355][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.355][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.355][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.366][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.366][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.366][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.366][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.377][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.377][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.377][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.377][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.388][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.388][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.388][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.388][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.399][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.399][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.399][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.399][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.410][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.410][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.410][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.410][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.421][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.421][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.421][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.421][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.432][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.432][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.432][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.432][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.443][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.443][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.443][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.443][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.454][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.454][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.454][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.454][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[32m[3.460][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:411) Updating dji sdk policy file... [0m
+[37m[3.465][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.465][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.465][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.465][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.476][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.476][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.476][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.476][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.487][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.487][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.487][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.487][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.498][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.498][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.498][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.498][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.509][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.509][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.509][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.509][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.520][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.520][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.520][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.520][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.531][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.531][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.531][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.531][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.542][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.542][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.542][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.542][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.552][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.553][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.553][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.553][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.563][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.563][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.563][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.563][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.574][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.574][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.574][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.574][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.585][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.585][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.585][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.585][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.596][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.597][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.597][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.597][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.608][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.608][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.608][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.608][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.619][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.619][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.619][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.619][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.629][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.629][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.629][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.629][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.640][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.640][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.640][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.640][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.651][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.651][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.651][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.651][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.662][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.662][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.662][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.662][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.673][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.673][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.673][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.673][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.684][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.684][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.684][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.684][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.695][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.695][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.695][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.695][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.706][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.706][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.706][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.706][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.717][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.717][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.717][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.717][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.728][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.728][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.728][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.728][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.739][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.739][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.739][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.739][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.750][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.750][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.750][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.750][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.761][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.761][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.761][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.761][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.771][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.771][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.771][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.772][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.782][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.782][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.782][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.782][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.793][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.793][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.793][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.793][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.804][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.804][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.804][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.804][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.815][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.815][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.815][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.815][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.827][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.827][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.827][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.827][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.837][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.838][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.838][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.838][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.848][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.848][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.848][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.848][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.859][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.859][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.859][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.859][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.870][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.870][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.870][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.870][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.881][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.881][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.881][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.881][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.892][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.892][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.892][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.892][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.903][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.903][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.903][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.903][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.914][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.914][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.914][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.914][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.925][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.925][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.925][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.925][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.936][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.936][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.936][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.936][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.947][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.947][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.947][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.947][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.958][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.958][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.958][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.958][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.969][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.969][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.969][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.969][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.980][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.980][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.980][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.980][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[3.991][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[3.991][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[3.991][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[3.991][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.003][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.003][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.003][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.003][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.014][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.014][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.014][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.014][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.025][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.025][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.025][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.025][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.036][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.036][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.036][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.036][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.047][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.047][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.047][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.047][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.058][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.058][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.058][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.058][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.069][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.069][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.069][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.069][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.080][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.080][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.080][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.080][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.091][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.091][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.091][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.091][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.102][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.102][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.102][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.102][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.113][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.113][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.113][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.113][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.124][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.124][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.124][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.124][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.134][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.134][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.134][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.134][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.145][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.145][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.145][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.145][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.156][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.156][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.156][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.156][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.167][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.167][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.167][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.167][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.178][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.178][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.178][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.178][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.189][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.189][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.189][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.189][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.200][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.200][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.200][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.200][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.211][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.211][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.211][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.211][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.222][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.222][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.222][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.222][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.233][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.233][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.233][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.233][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.244][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.244][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.244][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.244][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.255][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.255][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.255][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.255][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.266][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.266][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.266][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.266][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.277][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.277][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.277][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.277][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.288][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.288][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.288][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.288][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.299][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.299][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.299][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.299][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.310][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.310][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.310][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.310][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.321][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.321][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.321][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.321][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.332][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.332][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.332][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.332][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.340][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[4.340][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[4.340][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[4.340][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[4.340][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[4.343][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.343][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.343][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.343][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.354][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.354][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.354][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.354][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.365][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.365][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.365][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.365][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.376][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.376][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.376][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.376][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.387][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.387][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.387][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.387][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.398][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.398][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.398][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.398][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.409][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.409][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.409][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.409][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.420][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.420][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.420][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.420][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.431][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.431][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.431][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.431][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.442][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.442][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.442][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.442][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.453][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.453][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.453][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.453][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[32m[4.460][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:411) Updating dji sdk policy file... [0m
+[37m[4.464][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.464][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.464][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.464][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.475][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.475][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.475][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.475][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.486][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.486][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.486][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.486][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.497][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.497][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.497][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.497][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.508][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.508][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.508][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.508][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.519][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.519][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.519][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.519][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.529][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.529][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.530][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.530][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.540][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.540][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.540][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.540][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.551][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.551][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.551][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.551][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.562][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.562][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.562][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.562][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.573][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.573][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.573][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.573][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.584][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.584][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.584][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.584][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.595][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.595][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.595][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.595][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.606][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.606][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.606][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.606][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.617][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.617][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.617][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.617][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.628][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.628][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.628][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.628][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.639][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.639][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.639][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.639][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.650][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.650][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.650][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.650][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.661][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.661][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.661][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.661][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.672][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.672][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.672][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.672][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.683][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.683][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.683][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.683][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.694][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.694][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.694][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.694][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.705][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.705][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.705][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.705][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.716][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.716][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.716][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.716][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.727][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.727][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.727][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.727][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.738][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.738][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.738][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.738][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.750][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.750][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.750][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.750][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.761][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.761][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.761][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.761][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.772][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.772][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.772][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.772][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.783][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.783][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.783][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.783][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.794][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.794][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.794][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.794][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.805][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.805][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.805][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.805][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.816][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.816][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.816][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.816][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.827][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.827][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.827][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.827][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.838][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.838][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.838][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.838][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.849][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.849][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.849][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.849][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.860][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.860][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.860][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.860][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.871][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.871][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.871][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.871][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.882][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.882][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.882][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.882][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.893][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.893][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.893][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.893][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.904][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.904][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.904][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.904][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.915][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.915][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.915][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.915][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.926][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.926][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.926][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.926][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.937][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.937][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.937][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.937][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.948][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.948][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.948][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.948][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.959][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.959][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.959][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.959][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.970][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.970][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.971][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.971][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.981][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.981][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.981][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.982][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[4.992][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[4.993][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[4.993][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[4.993][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.003][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.003][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.003][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.004][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.014][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.014][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.014][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.014][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.025][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.025][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.025][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.025][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.037][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.037][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.037][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.037][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.047][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.048][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.048][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.048][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.059][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.059][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.059][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.059][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.070][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.070][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.070][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.070][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.081][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.081][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.081][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.081][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.092][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.092][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.092][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.092][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.103][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.103][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.103][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.103][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.114][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.114][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.114][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.114][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.125][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.125][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.125][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.125][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.136][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.136][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.136][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.136][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.147][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.147][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.147][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.147][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.158][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.158][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.158][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.158][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.169][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.169][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.169][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.169][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.180][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.180][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.180][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.180][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.191][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.191][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.191][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.191][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.202][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.202][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.202][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.202][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.213][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.213][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.213][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.213][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.224][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.224][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.224][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.224][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.235][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.235][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.235][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.235][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.246][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.246][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.246][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.246][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.257][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.257][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.257][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.257][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.268][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.268][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.268][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.268][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.279][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.279][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.279][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.279][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.290][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.290][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.290][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.290][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.302][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.302][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.302][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.302][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.312][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.312][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.312][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.312][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.323][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.323][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.323][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.323][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.334][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.334][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.334][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.334][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.345][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.345][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.345][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.345][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.355][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.356][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.356][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.356][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.366][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.366][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.366][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.366][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.378][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.378][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.378][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.378][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.390][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.390][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.390][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.390][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.401][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.401][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.401][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.401][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.412][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.412][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.412][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.412][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.423][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.424][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.424][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.424][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.435][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.435][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.435][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.435][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.442][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[5.442][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[5.442][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[5.442][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[5.443][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[5.446][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.446][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.446][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.446][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.456][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.457][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.457][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.457][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[32m[5.460][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:411) Updating dji sdk policy file... [0m
+[37m[5.467][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.467][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.467][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.467][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.478][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.478][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.478][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.478][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.489][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.489][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.489][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.489][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.500][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.500][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.500][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.500][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.510][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.510][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.510][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.510][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.521][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.521][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.521][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.521][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.532][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.532][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.532][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.532][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.543][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.543][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.543][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.543][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.553][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.553][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.553][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.553][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.564][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.564][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.564][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.564][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.575][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.575][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.575][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.575][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.585][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.585][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.585][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.585][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.596][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.596][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.596][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.596][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.607][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.607][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.607][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.607][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.618][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.618][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.618][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.618][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.629][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.629][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.629][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.629][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.639][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.639][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.639][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.639][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.650][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.650][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.650][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.650][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.661][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.661][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.661][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.661][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.672][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.672][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.672][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.672][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.682][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.682][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.682][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.682][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.693][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.693][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.693][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.693][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.704][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.704][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.704][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.704][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.719][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.719][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.719][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.719][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.730][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.730][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.730][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.730][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.741][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.741][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.741][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.741][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.752][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.752][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.752][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.752][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.762][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.762][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.762][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.763][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.773][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.773][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.773][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.773][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.784][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.784][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.784][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.784][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.795][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.795][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.795][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.795][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.806][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.806][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.806][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.806][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.816][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.817][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.817][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.817][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.827][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.827][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.827][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.827][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.838][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.838][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.838][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.838][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.851][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.851][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.851][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.851][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.863][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.864][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.864][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.864][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.874][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.874][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.874][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.874][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.885][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.885][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.885][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.885][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.896][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.896][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.896][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.896][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.907][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.907][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.907][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.907][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.918][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.918][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.918][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.918][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.928][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.928][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.929][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.929][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.939][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.939][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.939][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.939][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.950][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.950][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.950][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.950][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.961][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.961][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.961][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.961][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.972][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.972][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.972][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.972][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.983][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.983][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.983][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.983][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[5.993][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[5.993][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[5.993][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[5.993][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.004][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.004][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.004][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.004][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.015][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.015][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.015][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.015][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.026][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.026][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.026][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.026][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.037][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.037][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.037][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.037][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.047][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.047][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.047][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.047][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.058][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.058][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.058][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.058][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.069][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.069][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.069][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.069][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.080][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.080][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.080][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.080][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.091][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.091][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.091][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.091][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.101][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.101][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.101][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.101][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.112][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.112][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.112][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.112][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.123][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.123][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.123][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.123][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.134][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.134][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.134][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.134][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.144][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.144][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.144][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.144][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.155][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.155][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.155][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.155][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.166][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.166][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.166][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.166][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.177][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.177][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.177][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.177][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.187][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.187][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.187][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.187][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.198][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.198][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.198][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.198][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.209][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.209][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.209][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.209][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.220][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.220][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.220][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.220][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.230][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.230][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.230][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.230][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.241][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.241][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.241][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.241][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.252][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.252][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.252][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.252][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.263][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.263][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.263][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.263][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.273][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.273][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.273][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.273][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.284][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.284][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.284][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.284][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.295][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.295][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.295][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.295][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.306][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.306][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.306][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.306][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.317][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.317][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.317][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.317][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.327][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.327][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.327][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.327][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.338][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.338][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.338][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.338][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.349][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.349][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.349][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.349][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.360][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.360][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.360][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.360][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.370][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.371][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.371][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.371][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.381][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.381][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.381][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.381][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.392][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.392][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.392][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.392][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.403][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.403][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.403][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.403][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.414][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.414][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.414][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.414][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.425][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.425][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.425][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.425][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.435][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.435][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.435][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.435][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.446][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.446][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.446][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.446][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.457][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.457][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.457][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.457][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[32m[6.460][core]-[Info]-[DjiIdentityVerify_UpdatePolicy:411) Updating dji sdk policy file... [0m
+[37m[6.468][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.468][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.468][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.468][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.479][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.479][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.479][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.479][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.489][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.489][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.489][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.489][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.500][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.500][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.500][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.500][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.511][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.511][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.511][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.511][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.522][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.522][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.522][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.522][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.529][utils]-[Debug]-[DjiCore_RootTask:131) work execution time: [0m
+[37m[6.529][utils]-[Debug]-[DjiCore_RootTask:132) name	                execution time (ms)	  max execution time (ms) [0m
+[37m[6.529][utils]-[Debug]-[DjiCore_RootTask:134) recorderWork                    	1       	1        [0m
+[37m[6.529][utils]-[Debug]-[DjiCore_RootTask:134) flowControllerTask              	0       	1        [0m
+[37m[6.529][utils]-[Debug]-[DjiCore_RootTask:134) commandTask                     	1       	1        [0m
+[37m[6.532][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.532][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.532][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.532][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.543][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.543][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.543][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.543][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.554][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.554][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.554][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.554][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.565][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.565][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.565][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.565][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.575][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.575][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.575][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.575][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.586][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.586][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.586][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.586][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.597][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.597][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.597][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.597][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.608][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.608][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.608][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.608][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.618][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.618][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.618][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.618][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.629][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.629][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.629][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.629][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.640][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.640][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.640][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.640][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.651][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.651][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.651][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.651][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.661][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.661][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.661][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.661][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.672][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.672][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.672][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.672][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.683][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.683][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.683][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.683][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.694][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.694][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.694][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.694][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.704][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.704][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.704][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.704][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.715][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.715][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.715][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.715][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.726][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.726][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.726][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.726][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.737][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.737][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.737][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.737][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.747][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.747][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.747][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.747][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.758][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.758][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.758][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.758][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.769][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.769][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.769][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.769][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.780][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.780][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.780][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.780][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.791][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.791][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.791][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.791][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.801][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.801][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.801][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.801][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.812][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.812][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.812][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.812][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.823][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.823][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.823][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.823][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.834][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.834][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.834][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.834][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.845][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.845][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.845][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.845][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.855][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.855][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.855][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.855][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.866][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.866][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.866][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.866][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.877][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.877][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.877][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.877][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.888][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.888][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.888][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.888][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.899][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.899][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.899][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.899][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.909][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.909][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.909][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.909][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.920][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.920][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.920][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.920][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.931][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.931][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.931][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.931][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.942][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.942][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.942][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.942][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.952][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.953][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.953][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.953][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.963][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.963][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.963][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.963][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.974][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.974][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.974][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.974][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.985][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.985][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.985][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.985][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[6.996][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[6.996][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[6.996][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[6.996][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.007][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.007][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.007][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.007][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.017][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.017][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.017][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.017][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.028][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.028][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.028][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.028][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.039][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.039][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.039][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.039][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.050][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.050][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.050][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.050][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.061][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.061][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.061][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.061][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.071][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.071][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.071][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.071][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.082][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.082][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.082][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.082][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.093][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.093][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.093][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.093][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.104][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.104][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.104][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.104][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.114][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.114][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.114][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.114][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.125][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.125][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.125][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.125][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m
+[37m[7.136][linker]-[Debug]-[DjiProtocol_v1Pack:120) V1-Send: 0xE5->0x65 0x3C3E [0m
+[31m[7.136][linker]-[Error]-[DjiChannel_uartWrite:102) uart write data error [0m
+[31m[7.136][linker]-[Error]-[DjiLinker_SendMsg:191) write data error [0m
+[37m[7.136][recorder]-[Debug]-[DjiRecorder_SendData:226) send recorder data error [0m

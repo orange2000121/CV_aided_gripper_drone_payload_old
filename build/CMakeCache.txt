@@ -252,7 +252,7 @@ OPUS_LIBRARY:FILEPATH=OPUS_LIBRARY-NOTFOUND
 OpenCV_DIR:PATH=/usr/local/lib/cmake/opencv4
 
 //Path to a library.
-WIRINGPI_LIBRARY:FILEPATH=/usr/lib/libwiringPi.so
+WIRINGPI_LIBRARY:FILEPATH=/usr/local/lib/libwiringPi.so
 
 //Value Computed by CMake
 dji_sdk_demo_linux_BINARY_DIR:STATIC=/home/airlab/Desktop/CV_aided_gripper_drone_payload/build/samples/sample_c/platform/linux/manifold2

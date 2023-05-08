@@ -830,7 +830,7 @@ bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_photo.so.4.7.0
 bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_stitching.so.4.7.0
 bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_video.so.4.7.0
 bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_videoio.so.4.7.0
-bin/dji_sdk_demo_linux_cxx: /usr/lib/libwiringPi.so
+bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libwiringPi.so
 bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_imgcodecs.so.4.7.0
 bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_calib3d.so.4.7.0
 bin/dji_sdk_demo_linux_cxx: /usr/local/lib/libopencv_dnn.so.4.7.0

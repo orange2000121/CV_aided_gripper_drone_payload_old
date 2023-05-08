@@ -38,6 +38,7 @@
 #include "../manifold2/hal/hal_uart.h"
 #include "../manifold2/hal/hal_network.h"
 
+
 /* Private constants ---------------------------------------------------------*/
 #define DJI_LOG_PATH                    "Logs/DJI"
 #define DJI_LOG_INDEX_FILE_NAME         "Logs/latest"

@@ -740,7 +740,7 @@ bin/dji_sdk_demo_linux: samples/sample_c/platform/linux/manifold2/CMakeFiles/dji
 bin/dji_sdk_demo_linux: samples/sample_c/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux.dir/hal/hal_usb_bulk.c.o
 bin/dji_sdk_demo_linux: samples/sample_c/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux.dir/build.make
 bin/dji_sdk_demo_linux: ../samples/sample_c/platform/linux/manifold2/../../../../../psdk_lib/lib/aarch64-linux-gnu-gcc/libpayloadsdk.a
-bin/dji_sdk_demo_linux: /usr/lib/libwiringPi.so
+bin/dji_sdk_demo_linux: /usr/local/lib/libwiringPi.so
 bin/dji_sdk_demo_linux: samples/sample_c/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/airlab/Desktop/CV_aided_gripper_drone_payload/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking C executable ../../../../../bin/dji_sdk_demo_linux"
 	cmake ..
