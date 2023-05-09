@@ -32,7 +32,7 @@ if (NOT EXECUTABLE_OUTPUT_PATH)
     set(EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/bin)
 endif ()
 
-target_link_libraries(${PROJECT_NAME} m)
+# target_link_libraries(${PROJECT_NAME} m)
 
 add_custom_command(TARGET ${PROJECT_NAME}
         PRE_LINK COMMAND cmake ..
@@ -42,4 +42,4 @@ target_include_directories(${PROJECT_NAME} PRIVATE ${OpenCV_INCLUDE_DIRS})
 if (OpenCV_FOUND)
     target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
 endif ()
-INCLUDE_DIRECTORIES(/usr/include/opencv4/)
+# INCLUDE_DIRECTORIES(/usr/include/opencv4/)

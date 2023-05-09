@@ -34,6 +34,8 @@
 extern "C" {
 #endif
 
+#include "../../../sample_c++/module_sample/aruco_location/aruco_location.hpp"
+
 /* Exported constants --------------------------------------------------------*/
 
 

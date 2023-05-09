@@ -97,3 +97,15 @@ target_link_libraries(${PROJECT_NAME} ${LIBS})
 add_custom_command(TARGET ${PROJECT_NAME}
         PRE_LINK COMMAND cmake ..
         WORKING_DIRECTORY ${CMAKE_BINARY_DIR})
+
+#添加memchache函式庫
+find_library(MEMCACHED_LIBRARY memcached)
+if (MEMCACHED_LIBRARY)
+    message(STATUS "Found memcached library ${MEMCACHED_LIBRARY}")
+    include_directories(/usr/local/include)
+    link_directories(/usr/local/lib)
+    set(LIBS ${LIBS} ${MEMCACHED_LIBRARY})
+else()
+    message(FATAL_ERROR "memcached library not found")
+endif()
+target_link_libraries(${PROJECT_NAME} ${LIBS})

@@ -22,10 +22,10 @@
  *********************************************************************
  */
 
-
 /* Includes ------------------------------------------------------------------*/
 #include <stdio.h>
 #include "../gripper/gripper.h"
+#include "../aruco_location/aruco_location.h"
 #include "test_data_transmission.h"
 #include "dji_logger.h"
 #include "dji_platform.h"
@@ -36,8 +36,8 @@
 #include "widget_interaction_test/test_widget_interaction.h"
 
 /* Private constants ---------------------------------------------------------*/
-#define DATA_TRANSMISSION_TASK_FREQ         (1)
-#define DATA_TRANSMISSION_TASK_STACK_SIZE   (2048)
+#define DATA_TRANSMISSION_TASK_FREQ (1)
+#define DATA_TRANSMISSION_TASK_STACK_SIZE (2048)
 
 /* Private types -------------------------------------------------------------*/
 
@@ -62,66 +62,79 @@ T_DjiReturnCode DjiTest_DataTransmissionStartService(void)
     char ipAddr[DJI_IP_ADDR_STR_SIZE_MAX];
     uint16_t port;
 
-
     djiStat = DjiLowSpeedDataChannel_Init();
-    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    {
         USER_LOG_ERROR("init data transmission module error.");
         return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
 
     djiStat = DjiAircraftInfo_GetBaseInfo(&s_aircraftInfoBaseInfo);
-    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    {
         USER_LOG_ERROR("get aircraft base info error");
         return DJI_ERROR_SYSTEM_MODULE_CODE_SYSTEM_ERROR;
     }
 
     channelAddress = DJI_CHANNEL_ADDRESS_MASTER_RC_APP;
     djiStat = DjiLowSpeedDataChannel_RegRecvDataCallback(channelAddress, ReceiveDataFromMobile);
-    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    {
         USER_LOG_ERROR("register receive data from mobile error.");
         return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
     // data receive mission
     if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO1 ||
         s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO2 ||
-        s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO3) {
+        s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO3)
+    {
         channelAddress = DJI_CHANNEL_ADDRESS_EXTENSION_PORT;
         djiStat = DjiLowSpeedDataChannel_RegRecvDataCallback(channelAddress, ReceiveDataFromOnboardComputer);
-        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
             USER_LOG_ERROR("register receive data from onboard coputer error.");
             return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
         }
 
         djiStat = DjiHighSpeedDataChannel_SetBandwidthProportion(bandwidthProportionOfHighspeedChannel);
-        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
             USER_LOG_ERROR("Set data channel bandwidth width proportion error.");
             return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
         }
 
         djiStat = DjiHighSpeedDataChannel_GetDataStreamRemoteAddress(ipAddr, &port);
-        if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+        if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
             USER_LOG_DEBUG("Get data stream remote address: %s, port: %d", ipAddr, port);
-        } else {
+        }
+        else
+        {
             USER_LOG_ERROR("get data stream remote address error.");
         }
-
-    } else if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_EXTENSION_PORT) {
+    }
+    else if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_EXTENSION_PORT)
+    {
         channelAddress = DJI_CHANNEL_ADDRESS_PAYLOAD_PORT_NO1;
         djiStat = DjiLowSpeedDataChannel_RegRecvDataCallback(channelAddress, ReceiveDataFromPayload);
-        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
             USER_LOG_ERROR("register receive data from payload NO1 error.");
             return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
         }
-    } else {
+    }
+    else
+    {
         return DJI_ERROR_SYSTEM_MODULE_CODE_NONSUPPORT;
     }
     // data transmission
-    if (osalHandler->TaskCreate("user_transmission_task", UserDataTransmission_Task,
-                                DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
-        DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
-        USER_LOG_ERROR("user data transmission task create error.");
-        return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
-    }
+    // if (osalHandler->TaskCreate("user_transmission_task", UserDataTransmission_Task,
+    //                             DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
+    //     DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    // {
+    //     USER_LOG_ERROR("user data transmission task create error.");
+    //     return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
+    // }
 
     return DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS;
 }
@@ -144,7 +157,8 @@ static void *UserDataTransmission_Task(void *arg)
 
     USER_UTIL_UNUSED(arg);
     int number = 1;
-    while (1) {
+    while (1)
+    {
         osalHandler->TaskSleepMs(1000 / DATA_TRANSMISSION_TASK_FREQ);
         sprintf(dataToBeSent,"%s%d", dataToBeSentDemo, number);
         // printf("%s\n",dataToBeSent);
@@ -155,62 +169,166 @@ static void *UserDataTransmission_Task(void *arg)
             USER_LOG_ERROR("send data to mobile error.");
 
         djiStat = DjiLowSpeedDataChannel_GetSendDataState(channelAddress, &state);
-        if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+        if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
             USER_LOG_DEBUG(
                 "send to mobile state: realtimeBandwidthBeforeFlowController: %d, realtimeBandwidthAfterFlowController: %d, busyState: %d.",
                 state.realtimeBandwidthBeforeFlowController, state.realtimeBandwidthAfterFlowController,
                 state.busyState);
-        } else {
+        }
+        else
+        {
             USER_LOG_ERROR("get send to mobile channel state error.");
         }
 
         if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO1 ||
             s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO2 ||
-            s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO3) {
+            s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO3)
+        {
             channelAddress = DJI_CHANNEL_ADDRESS_EXTENSION_PORT;
             djiStat = DjiLowSpeedDataChannel_SendData(channelAddress, dataToBeSent, sizeof(dataToBeSent));
             if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
                 USER_LOG_ERROR("send data to onboard computer error.");
 
             djiStat = DjiLowSpeedDataChannel_GetSendDataState(channelAddress, &state);
-            if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+            if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+            {
                 USER_LOG_DEBUG(
                     "send to onboard computer state: realtimeBandwidthBeforeFlowController: %d, realtimeBandwidthAfterFlowController: %d, busyState: %d.",
                     state.realtimeBandwidthBeforeFlowController, state.realtimeBandwidthAfterFlowController,
                     state.busyState);
-            } else {
+            }
+            else
+            {
                 USER_LOG_ERROR("get send to onboard computer channel state error.");
             }
 
-            if (DjiPlatform_GetSocketHandler() != NULL) {
+            if (DjiPlatform_GetSocketHandler() != NULL)
+            {
                 djiStat = DjiHighSpeedDataChannel_SendDataStreamData(dataToBeSent, sizeof(dataToBeSent));
                 if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
                     USER_LOG_ERROR("send data to data stream error.");
 
                 djiStat = DjiHighSpeedDataChannel_GetDataStreamState(&state);
-                if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+                if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+                {
                     USER_LOG_DEBUG(
                         "data stream state: realtimeBandwidthLimit: %d, realtimeBandwidthBeforeFlowController: %d, busyState: %d.",
                         state.realtimeBandwidthLimit, state.realtimeBandwidthBeforeFlowController, state.busyState);
-                } else {
+                }
+                else
+                {
                     USER_LOG_ERROR("get data stream state error.");
                 }
             }
-        } else if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_EXTENSION_PORT) {
+        }
+        else if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_EXTENSION_PORT)
+        {
             channelAddress = DJI_CHANNEL_ADDRESS_PAYLOAD_PORT_NO1;
             djiStat = DjiLowSpeedDataChannel_SendData(channelAddress, dataToBeSent, sizeof(dataToBeSent));
             if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
                 USER_LOG_ERROR("send data to onboard computer error.");
 
             djiStat = DjiLowSpeedDataChannel_GetSendDataState(channelAddress, &state);
-            if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+            if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+            {
                 USER_LOG_DEBUG(
                     "send to onboard computer state: realtimeBandwidthBeforeFlowController: %d, realtimeBandwidthAfterFlowController: %d, busyState: %d.",
                     state.realtimeBandwidthBeforeFlowController, state.realtimeBandwidthAfterFlowController,
                     state.busyState);
-            } else {
+            }
+            else
+            {
                 USER_LOG_ERROR("get send to onboard computer channel state error.");
             }
+        }
+    }
+}
+
+static void sendDataToMobile(uint8_t *dataToBeSent)
+{
+    T_DjiReturnCode djiStat;
+    T_DjiDataChannelState state = {0};
+    T_DjiOsalHandler *osalHandler = DjiPlatform_GetOsalHandler();
+    E_DjiChannelAddress channelAddress;
+
+    channelAddress = DJI_CHANNEL_ADDRESS_MASTER_RC_APP;
+    djiStat = DjiLowSpeedDataChannel_SendData(channelAddress, dataToBeSent, sizeof(dataToBeSent));
+    if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        USER_LOG_ERROR("send data to mobile error.");
+
+    djiStat = DjiLowSpeedDataChannel_GetSendDataState(channelAddress, &state);
+    if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    {
+        USER_LOG_DEBUG(
+            "send to mobile state: realtimeBandwidthBeforeFlowController: %d, realtimeBandwidthAfterFlowController: %d, busyState: %d.",
+            state.realtimeBandwidthBeforeFlowController, state.realtimeBandwidthAfterFlowController,
+            state.busyState);
+    }
+    else
+    {
+        USER_LOG_ERROR("get send to mobile channel state error.");
+    }
+
+    if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO1 ||
+        s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO2 ||
+        s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_PAYLOAD_PORT_NO3)
+    {
+        channelAddress = DJI_CHANNEL_ADDRESS_EXTENSION_PORT;
+        djiStat = DjiLowSpeedDataChannel_SendData(channelAddress, dataToBeSent, sizeof(dataToBeSent));
+        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+            USER_LOG_ERROR("send data to onboard computer error.");
+
+        djiStat = DjiLowSpeedDataChannel_GetSendDataState(channelAddress, &state);
+        if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
+            USER_LOG_DEBUG(
+                "send to onboard computer state: realtimeBandwidthBeforeFlowController: %d, realtimeBandwidthAfterFlowController: %d, busyState: %d.",
+                state.realtimeBandwidthBeforeFlowController, state.realtimeBandwidthAfterFlowController,
+                state.busyState);
+        }
+        else
+        {
+            USER_LOG_ERROR("get send to onboard computer channel state error.");
+        }
+
+        if (DjiPlatform_GetSocketHandler() != NULL)
+        {
+            djiStat = DjiHighSpeedDataChannel_SendDataStreamData(dataToBeSent, sizeof(dataToBeSent));
+            if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+                USER_LOG_ERROR("send data to data stream error.");
+
+            djiStat = DjiHighSpeedDataChannel_GetDataStreamState(&state);
+            if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+            {
+                USER_LOG_DEBUG(
+                    "data stream state: realtimeBandwidthLimit: %d, realtimeBandwidthBeforeFlowController: %d, busyState: %d.",
+                    state.realtimeBandwidthLimit, state.realtimeBandwidthBeforeFlowController, state.busyState);
+            }
+            else
+            {
+                USER_LOG_ERROR("get data stream state error.");
+            }
+        }
+    }
+    else if (s_aircraftInfoBaseInfo.mountPosition == DJI_MOUNT_POSITION_EXTENSION_PORT)
+    {
+        channelAddress = DJI_CHANNEL_ADDRESS_PAYLOAD_PORT_NO1;
+        djiStat = DjiLowSpeedDataChannel_SendData(channelAddress, dataToBeSent, sizeof(dataToBeSent));
+        if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+            USER_LOG_ERROR("send data to onboard computer error.");
+
+        djiStat = DjiLowSpeedDataChannel_GetSendDataState(channelAddress, &state);
+        if (djiStat == DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
+            USER_LOG_DEBUG(
+                "send to onboard computer state: realtimeBandwidthBeforeFlowController: %d, realtimeBandwidthAfterFlowController: %d, busyState: %d.",
+                state.realtimeBandwidthBeforeFlowController, state.realtimeBandwidthAfterFlowController,
+                state.busyState);
+        }
+        else
+        {
+            USER_LOG_ERROR("get send to onboard computer channel state error.");
         }
     }
 }
@@ -225,20 +343,33 @@ static T_DjiReturnCode ReceiveDataFromMobile(const uint8_t *data, uint16_t len)
     T_DjiOsalHandler *osalHandler = DjiPlatform_GetOsalHandler();
 
     printData = osalHandler->Malloc(len + 1);
-    if (printData == NULL) {
+    if (printData == NULL)
+    {
         USER_LOG_ERROR("malloc memory for printData fail.");
         return DJI_ERROR_SYSTEM_MODULE_CODE_MEMORY_ALLOC_FAILED;
     }
 
-    strncpy(printData, (const char *) data, len);
+    strncpy(printData, (const char *)data, len);
     printData[len] = '\0';
     USER_LOG_INFO("receive data from mobile: %s, len:%d.", printData, len);
     DjiTest_WidgetLogAppend("receive data: %s, len:%d.", printData, len);
     /* --------------------------- 接收到y就打开夹爪，接收到n就关闭夹爪 -------------------------- */
-    if(strcmp(printData,"y")==0){
+    if (strcmp(printData, "y") == 0)
+    {
         gripperSwitch(1);
-    }else if(strcmp(printData,"n")==0){
+    }
+    else if (strcmp(printData, "n") == 0)
+    {
         gripperSwitch(0);
+    }
+    else if (strcmp(printData, "location") == 0)
+    {
+        // 获取当前位置
+        double location[3] = {0};
+        getLocation(location);
+        uint8_t dataToBeSent[100] = "";
+        sprintf((char *)dataToBeSent, "%f,%f,%f", location[0], location[1], location[2]);
+        sendDataToMobile(dataToBeSent);
     }
 
     osalHandler->Free(printData);
@@ -252,12 +383,13 @@ static T_DjiReturnCode ReceiveDataFromOnboardComputer(const uint8_t *data, uint1
     T_DjiOsalHandler *osalHandler = DjiPlatform_GetOsalHandler();
 
     printData = osalHandler->Malloc(len + 1);
-    if (printData == NULL) {
+    if (printData == NULL)
+    {
         USER_LOG_ERROR("malloc memory for printData fail.");
         return DJI_ERROR_SYSTEM_MODULE_CODE_MEMORY_ALLOC_FAILED;
     }
 
-    strncpy(printData, (const char *) data, len);
+    strncpy(printData, (const char *)data, len);
     printData[len] = '\0';
     USER_LOG_INFO("receive data from onboard computer: %s, len:%d.", printData, len);
     DjiTest_WidgetLogAppend("receive data: %s, len:%d.", printData, len);
@@ -273,12 +405,13 @@ static T_DjiReturnCode ReceiveDataFromPayload(const uint8_t *data, uint16_t len)
     T_DjiOsalHandler *osalHandler = DjiPlatform_GetOsalHandler();
 
     printData = osalHandler->Malloc(len + 1);
-    if (printData == NULL) {
+    if (printData == NULL)
+    {
         USER_LOG_ERROR("malloc memory for printData fail.");
         return DJI_ERROR_SYSTEM_MODULE_CODE_MEMORY_ALLOC_FAILED;
     }
 
-    strncpy(printData, (const char *) data, len);
+    strncpy(printData, (const char *)data, len);
     printData[len] = '\0';
     USER_LOG_INFO("receive data from payload port: %s, len:%d.", printData, len);
     DjiTest_WidgetLogAppend("receive data: %s, len:%d.", printData, len);
