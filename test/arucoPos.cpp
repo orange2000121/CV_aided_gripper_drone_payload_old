@@ -1,5 +1,5 @@
-// #include <opencv2/aruco.hpp>
-#include <opencv2/objdetect/aruco_detector.hpp>
+#include <opencv2/aruco.hpp>
+// #include <opencv2/objdetect/aruco_detector.hpp>
 #include "opencv2/opencv.hpp"
 #include <iostream>
 
@@ -31,11 +31,15 @@ int main(int argc, char **argv)
             cv::aruco::drawDetectedMarkers(imageCopy, corners, ids);
             std::vector<cv::Vec3d> rvecs, tvecs;
             cv::aruco::estimatePoseSingleMarkers(corners, 0.05, cameraMatrix, distCoeffs, rvecs, tvecs);
+            double x = tvecs[0][0];
+            double y = tvecs[0][1];
+            double z = tvecs[0][2];
+            cout << "x: " << x << " y: " << y << " z: " << z << endl;
             // draw axis for each marker
             for (int i = 0; i < ids.size(); i++)
                 cv::aruco::drawAxis(imageCopy, cameraMatrix, distCoeffs, rvecs[i], tvecs[i], 0.1);
         }
-        cv::imshow("out", imageCopy);
+        // cv::imshow("out", imageCopy);
         char key = (char)cv::waitKey(1);
         if (key == 27)
             break;

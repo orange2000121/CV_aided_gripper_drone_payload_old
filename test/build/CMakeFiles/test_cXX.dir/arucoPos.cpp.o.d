@@ -1,11 +1,8 @@
 CMakeFiles/test_cXX.dir/arucoPos.cpp.o: \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/arucoPos.cpp \
- /usr/include/stdc-predef.h \
- /usr/local/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+ /usr/include/stdc-predef.h /usr/local/include/opencv4/opencv2/aruco.hpp \
  /usr/local/include/opencv4/opencv2/core.hpp \
  /usr/local/include/opencv4/opencv2/core/cvdef.h \
- /usr/local/include/opencv4/opencv2/core/version.hpp \
  /usr/include/c++/10/limits \
  /usr/include/aarch64-linux-gnu/c++/10/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/10/bits/os_defines.h \
@@ -52,6 +49,7 @@ CMakeFiles/test_cXX.dir/arucoPos.cpp.o: \
  /usr/include/c++/10/bits/range_access.h \
  /usr/include/c++/10/bits/iterator_concepts.h \
  /usr/include/c++/10/concepts /usr/include/c++/10/bits/range_cmp.h \
+ /usr/local/include/opencv4/opencv2/core/version.hpp \
  /usr/local/include/opencv4/opencv2/core/base.hpp \
  /usr/local/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/c++/10/climits \
@@ -233,7 +231,7 @@ CMakeFiles/test_cXX.dir/arucoPos.cpp.o: \
  /usr/local/include/opencv4/opencv2/core/optim.hpp \
  /usr/local/include/opencv4/opencv2/core/ovx.hpp \
  /usr/local/include/opencv4/opencv2/core/cvdef.h \
- /usr/local/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+ /usr/local/include/opencv4/opencv2/aruco/dictionary.hpp \
  /usr/local/include/opencv4/opencv2/opencv.hpp \
  /usr/local/include/opencv4/opencv2/calib3d.hpp \
  /usr/local/include/opencv4/opencv2/features2d.hpp \
@@ -271,9 +269,6 @@ CMakeFiles/test_cXX.dir/arucoPos.cpp.o: \
  /usr/local/include/opencv4/opencv2/flann/dynamic_bitset.h \
  /usr/local/include/opencv4/opencv2/flann/dist.h \
  /usr/local/include/opencv4/opencv2/flann/heap.h \
- /usr/include/c++/10/unordered_map /usr/include/c++/10/bits/hashtable.h \
- /usr/include/c++/10/bits/hashtable_policy.h \
- /usr/include/c++/10/bits/unordered_map.h \
  /usr/local/include/opencv4/opencv2/flann/allocator.h \
  /usr/include/c++/10/stdlib.h \
  /usr/local/include/opencv4/opencv2/flann/random.h \
@@ -291,7 +286,10 @@ CMakeFiles/test_cXX.dir/arucoPos.cpp.o: \
  /usr/include/aarch64-linux-gnu/c++/10/bits/messages_members.h \
  /usr/include/libintl.h /usr/include/c++/10/bits/codecvt.h \
  /usr/include/c++/10/bits/locale_facets_nonio.tcc \
- /usr/include/c++/10/bits/locale_conv.h /usr/include/c++/10/math.h \
+ /usr/include/c++/10/bits/locale_conv.h /usr/include/c++/10/unordered_map \
+ /usr/include/c++/10/bits/hashtable.h \
+ /usr/include/c++/10/bits/hashtable_policy.h \
+ /usr/include/c++/10/bits/unordered_map.h /usr/include/c++/10/math.h \
  /usr/local/include/opencv4/opencv2/flann/autotuned_index.h \
  /usr/local/include/opencv4/opencv2/flann/ground_truth.h \
  /usr/local/include/opencv4/opencv2/flann/index_testing.h \
@@ -301,13 +299,10 @@ CMakeFiles/test_cXX.dir/arucoPos.cpp.o: \
  /usr/local/include/opencv4/opencv2/imgcodecs.hpp \
  /usr/local/include/opencv4/opencv2/videoio.hpp \
  /usr/local/include/opencv4/opencv2/imgproc.hpp \
- /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp \
  /usr/local/include/opencv4/opencv2/ml.hpp \
  /usr/local/include/opencv4/opencv2/ml/ml.inl.hpp \
  /usr/local/include/opencv4/opencv2/objdetect.hpp \
  /usr/local/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/face.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
  /usr/local/include/opencv4/opencv2/photo.hpp \
  /usr/local/include/opencv4/opencv2/stitching.hpp \
  /usr/local/include/opencv4/opencv2/stitching/warpers.hpp \

@@ -128,13 +128,13 @@ T_DjiReturnCode DjiTest_DataTransmissionStartService(void)
         return DJI_ERROR_SYSTEM_MODULE_CODE_NONSUPPORT;
     }
     // data transmission
-    // if (osalHandler->TaskCreate("user_transmission_task", UserDataTransmission_Task,
-    //                             DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
-    //     DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
-    // {
-    //     USER_LOG_ERROR("user data transmission task create error.");
-    //     return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
-    // }
+    if (osalHandler->TaskCreate("user_transmission_task", UserDataTransmission_Task,
+                                DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
+        DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    {
+        USER_LOG_ERROR("user data transmission task create error.");
+        return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
+    }
 
     return DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS;
 }
@@ -369,6 +369,7 @@ static T_DjiReturnCode ReceiveDataFromMobile(const uint8_t *data, uint16_t len)
         getLocation(location);
         uint8_t dataToBeSent[100] = "";
         sprintf((char *)dataToBeSent, "%f,%f,%f", location[0], location[1], location[2]);
+        printf("location: %s\n", dataToBeSent);
         sendDataToMobile(dataToBeSent);
     }
 

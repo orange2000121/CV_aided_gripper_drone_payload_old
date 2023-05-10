@@ -30,7 +30,7 @@ while True:
         x = tvec[0][0][0]
         y = tvec[0][0][1]
         z = tvec[0][0][2]
-        # print('x: ', str(x), 'y: ', y, 'z: ', z)
+        print('x: ', str(x), 'y: ', y, 'z: ', z)
         mc.set('x', str(x))
         mc.set('y', str(y))
         mc.set('z', str(z))
