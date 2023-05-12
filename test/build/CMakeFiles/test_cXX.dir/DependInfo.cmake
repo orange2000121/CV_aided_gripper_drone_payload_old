@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/airlab/Desktop/CV_aided_gripper_drone_payload/test/arucoPos.cpp" "CMakeFiles/test_cXX.dir/arucoPos.cpp.o" "gcc" "CMakeFiles/test_cXX.dir/arucoPos.cpp.o.d"
+  "/home/airlab/Desktop/CV_aided_gripper_drone_payload/test/bottom_camera.cpp" "CMakeFiles/test_cXX.dir/bottom_camera.cpp.o" "gcc" "CMakeFiles/test_cXX.dir/bottom_camera.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

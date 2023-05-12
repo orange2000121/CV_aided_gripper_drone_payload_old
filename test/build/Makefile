@@ -129,29 +129,29 @@ test_cXX/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/build
 .PHONY : test_cXX/fast
 
-arucoPos.o: arucoPos.cpp.o
-.PHONY : arucoPos.o
+bottom_camera.o: bottom_camera.cpp.o
+.PHONY : bottom_camera.o
 
 # target to build an object file
-arucoPos.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/arucoPos.cpp.o
-.PHONY : arucoPos.cpp.o
+bottom_camera.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/bottom_camera.cpp.o
+.PHONY : bottom_camera.cpp.o
 
-arucoPos.i: arucoPos.cpp.i
-.PHONY : arucoPos.i
+bottom_camera.i: bottom_camera.cpp.i
+.PHONY : bottom_camera.i
 
 # target to preprocess a source file
-arucoPos.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/arucoPos.cpp.i
-.PHONY : arucoPos.cpp.i
+bottom_camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/bottom_camera.cpp.i
+.PHONY : bottom_camera.cpp.i
 
-arucoPos.s: arucoPos.cpp.s
-.PHONY : arucoPos.s
+bottom_camera.s: bottom_camera.cpp.s
+.PHONY : bottom_camera.s
 
 # target to generate assembly for a file
-arucoPos.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/arucoPos.cpp.s
-.PHONY : arucoPos.cpp.s
+bottom_camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_cXX.dir/build.make CMakeFiles/test_cXX.dir/bottom_camera.cpp.s
+.PHONY : bottom_camera.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... test_cXX"
-	@echo "... arucoPos.o"
-	@echo "... arucoPos.i"
-	@echo "... arucoPos.s"
+	@echo "... bottom_camera.o"
+	@echo "... bottom_camera.i"
+	@echo "... bottom_camera.s"
 .PHONY : help
 
 

@@ -24,6 +24,7 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/include/aarch64-linux-gnu/bits/sys_errlist.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/module_sample/data_transmission/../gripper/gripper.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/module_sample/data_transmission/../aruco_location/aruco_location.h \
+ /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/module_sample/data_transmission/../aruco_location/../../../sample_c++/module_sample/aruco_location/bottom_camera.hpp \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/module_sample/data_transmission/test_data_transmission.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_typedef.h \
  /usr/lib/gcc/aarch64-linux-gnu/10/include/stdint.h /usr/include/stdint.h \
@@ -61,7 +62,7 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
  /usr/include/alloca.h /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_error.h \
- /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/module_sample/data_transmission/../../../sample_c++/module_sample/aruco_location/aruco_location.hpp \
+ /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/module_sample/data_transmission/../../../sample_c++/module_sample/aruco_location/bottom_camera.hpp \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_logger.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_platform.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_typedef.h \

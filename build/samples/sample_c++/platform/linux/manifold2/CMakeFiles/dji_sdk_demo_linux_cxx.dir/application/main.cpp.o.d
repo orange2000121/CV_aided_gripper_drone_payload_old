@@ -178,6 +178,6 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../sample_c/module_sample/power_management/test_power_management.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_power_management.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../sample_c/module_sample/data_transmission/test_data_transmission.h \
- /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../sample_c/module_sample/data_transmission/../../../sample_c++/module_sample/aruco_location/aruco_location.hpp \
+ /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../sample_c/module_sample/data_transmission/../../../sample_c++/module_sample/aruco_location/bottom_camera.hpp \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../sample_c/module_sample/camera_manager/test_camera_manager.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c++/platform/linux/manifold2/../../../../../psdk_lib/include/dji_camera_manager.h

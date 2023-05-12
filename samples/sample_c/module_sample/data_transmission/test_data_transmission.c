@@ -128,13 +128,13 @@ T_DjiReturnCode DjiTest_DataTransmissionStartService(void)
         return DJI_ERROR_SYSTEM_MODULE_CODE_NONSUPPORT;
     }
     // data transmission
-    if (osalHandler->TaskCreate("user_transmission_task", UserDataTransmission_Task,
-                                DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
-        DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
-    {
-        USER_LOG_ERROR("user data transmission task create error.");
-        return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
-    }
+    // if (osalHandler->TaskCreate("user_transmission_task", UserDataTransmission_Task,
+    //                             DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
+    //     DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+    // {
+    //     USER_LOG_ERROR("user data transmission task create error.");
+    //     return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
+    // }
 
     return DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS;
 }
@@ -146,23 +146,24 @@ T_DjiReturnCode DjiTest_DataTransmissionStartService(void)
 #pragma GCC diagnostic ignored "-Wreturn-type"
 #endif
 
+uint8_t dataToBeSent[100] = "DJI Data Transmission Test Data.";
 static void *UserDataTransmission_Task(void *arg)
 {
     T_DjiReturnCode djiStat;
-    uint8_t dataToBeSent[100] = "DJI Data Transmission Test Data.";
-    uint8_t dataToBeSentDemo[] = "DJI Data Transmission Test Data. ";
+    // uint8_t dataToBeSent[100] = "DJI Data Transmission Test Data.";
+    // uint8_t dataToBeSentDemo[] = "DJI Data Transmission Test Data. ";
     T_DjiDataChannelState state = {0};
     T_DjiOsalHandler *osalHandler = DjiPlatform_GetOsalHandler();
     E_DjiChannelAddress channelAddress;
 
     USER_UTIL_UNUSED(arg);
-    int number = 1;
+    // int number = 1;
     while (1)
     {
-        osalHandler->TaskSleepMs(1000 / DATA_TRANSMISSION_TASK_FREQ);
-        sprintf(dataToBeSent,"%s%d", dataToBeSentDemo, number);
+        osalHandler->TaskSleepMs(500 / DATA_TRANSMISSION_TASK_FREQ);
+        // sprintf(dataToBeSent,"%s%d", dataToBeSentDemo, number);
         // printf("%s\n",dataToBeSent);
-        number++;
+        // number++;
         channelAddress = DJI_CHANNEL_ADDRESS_MASTER_RC_APP;
         djiStat = DjiLowSpeedDataChannel_SendData(channelAddress, dataToBeSent, sizeof(dataToBeSent));
         if (djiStat != DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
@@ -245,7 +246,8 @@ static void *UserDataTransmission_Task(void *arg)
     }
 }
 
-static void sendDataToMobile(uint8_t *dataToBeSent)
+// uint8_t dataToBeSent[100] = "DJI Data Transmission Test Data.";
+static void sendDataToMobile(void *arg)
 {
     T_DjiReturnCode djiStat;
     T_DjiDataChannelState state = {0};
@@ -366,11 +368,17 @@ static T_DjiReturnCode ReceiveDataFromMobile(const uint8_t *data, uint16_t len)
     {
         // 获取当前位置
         double location[3] = {0};
-        getLocation(location);
-        uint8_t dataToBeSent[100] = "";
+        getLocationFromMemcache(location);
+        
         sprintf((char *)dataToBeSent, "%f,%f,%f", location[0], location[1], location[2]);
         printf("location: %s\n", dataToBeSent);
-        sendDataToMobile(dataToBeSent);
+        if (osalHandler->TaskCreate("user_transmission_task", sendDataToMobile,
+                                    DATA_TRANSMISSION_TASK_STACK_SIZE, NULL, &s_userDataTransmissionThread) !=
+            DJI_ERROR_SYSTEM_MODULE_CODE_SUCCESS)
+        {
+            USER_LOG_ERROR("user data transmission task create error.");
+            return DJI_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
+        }
     }
 
     osalHandler->Free(printData);

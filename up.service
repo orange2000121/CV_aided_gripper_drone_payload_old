@@ -1,0 +1,16 @@
+[Unit]
+Description=UP service
+After=multi-user.target
+
+[Service]
+ExecStart=/home/airlab/Desktop/CV_aided_gripper_drone_payload/build/bin/dji_sdk_demo_linux
+WorkingDirectory=/usr/bin
+ExecReload=/bin/kill -HUP $MAINPID
+KillMode=process
+Restart=on-failure
+RestartPreventExitStatus=255
+Type=notify
+
+[Install]
+WantedBy=multi-user.target;
+Alias=up.service

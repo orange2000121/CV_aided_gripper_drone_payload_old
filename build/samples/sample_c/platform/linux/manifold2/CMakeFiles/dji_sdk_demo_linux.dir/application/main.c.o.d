@@ -177,5 +177,5 @@ samples/sample_c/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux.dir/appl
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/../../../../../psdk_lib/include/dji_widget.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/../../../module_sample/widget_interaction_test/test_widget_interaction.h \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/../../../module_sample/data_transmission/test_data_transmission.h \
- /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/../../../module_sample/data_transmission/../../../sample_c++/module_sample/aruco_location/aruco_location.hpp \
+ /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/../../../module_sample/data_transmission/../../../sample_c++/module_sample/aruco_location/bottom_camera.hpp \
  /home/airlab/Desktop/CV_aided_gripper_drone_payload/samples/sample_c/platform/linux/manifold2/application/dji_sdk_config.h

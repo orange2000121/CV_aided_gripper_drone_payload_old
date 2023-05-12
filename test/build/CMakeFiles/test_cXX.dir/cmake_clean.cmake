@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/test_cXX.dir/arucoPos.cpp.o"
-  "CMakeFiles/test_cXX.dir/arucoPos.cpp.o.d"
+  "CMakeFiles/test_cXX.dir/bottom_camera.cpp.o"
+  "CMakeFiles/test_cXX.dir/bottom_camera.cpp.o.d"
   "bin/test_cXX"
   "bin/test_cXX.pdb"
 )

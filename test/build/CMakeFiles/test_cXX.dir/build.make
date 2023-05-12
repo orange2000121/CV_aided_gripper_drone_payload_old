@@ -69,28 +69,28 @@ include CMakeFiles/test_cXX.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/test_cXX.dir/flags.make
 
-CMakeFiles/test_cXX.dir/arucoPos.cpp.o: CMakeFiles/test_cXX.dir/flags.make
-CMakeFiles/test_cXX.dir/arucoPos.cpp.o: /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/arucoPos.cpp
-CMakeFiles/test_cXX.dir/arucoPos.cpp.o: CMakeFiles/test_cXX.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/airlab/Desktop/CV_aided_gripper_drone_payload/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test_cXX.dir/arucoPos.cpp.o"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test_cXX.dir/arucoPos.cpp.o -MF CMakeFiles/test_cXX.dir/arucoPos.cpp.o.d -o CMakeFiles/test_cXX.dir/arucoPos.cpp.o -c /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/arucoPos.cpp
+CMakeFiles/test_cXX.dir/bottom_camera.cpp.o: CMakeFiles/test_cXX.dir/flags.make
+CMakeFiles/test_cXX.dir/bottom_camera.cpp.o: /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/bottom_camera.cpp
+CMakeFiles/test_cXX.dir/bottom_camera.cpp.o: CMakeFiles/test_cXX.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/airlab/Desktop/CV_aided_gripper_drone_payload/test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test_cXX.dir/bottom_camera.cpp.o"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test_cXX.dir/bottom_camera.cpp.o -MF CMakeFiles/test_cXX.dir/bottom_camera.cpp.o.d -o CMakeFiles/test_cXX.dir/bottom_camera.cpp.o -c /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/bottom_camera.cpp
 
-CMakeFiles/test_cXX.dir/arucoPos.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_cXX.dir/arucoPos.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/arucoPos.cpp > CMakeFiles/test_cXX.dir/arucoPos.cpp.i
+CMakeFiles/test_cXX.dir/bottom_camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_cXX.dir/bottom_camera.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/bottom_camera.cpp > CMakeFiles/test_cXX.dir/bottom_camera.cpp.i
 
-CMakeFiles/test_cXX.dir/arucoPos.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_cXX.dir/arucoPos.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/arucoPos.cpp -o CMakeFiles/test_cXX.dir/arucoPos.cpp.s
+CMakeFiles/test_cXX.dir/bottom_camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_cXX.dir/bottom_camera.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/airlab/Desktop/CV_aided_gripper_drone_payload/test/bottom_camera.cpp -o CMakeFiles/test_cXX.dir/bottom_camera.cpp.s
 
 # Object files for target test_cXX
 test_cXX_OBJECTS = \
-"CMakeFiles/test_cXX.dir/arucoPos.cpp.o"
+"CMakeFiles/test_cXX.dir/bottom_camera.cpp.o"
 
 # External object files for target test_cXX
 test_cXX_EXTERNAL_OBJECTS =
 
-bin/test_cXX: CMakeFiles/test_cXX.dir/arucoPos.cpp.o
+bin/test_cXX: CMakeFiles/test_cXX.dir/bottom_camera.cpp.o
 bin/test_cXX: CMakeFiles/test_cXX.dir/build.make
 bin/test_cXX: /usr/local/lib/libopencv_gapi.so.4.5.0
 bin/test_cXX: /usr/local/lib/libopencv_stitching.so.4.5.0

@@ -1,7 +1,7 @@
 #include <libmemcached/memcached.h>
 
 double getMemData(char *key, memcached_st *memc, memcached_return rc);
-void getLocation(double *arr)
+void getLocationFromMemcache(double *arr)
 {
     memcached_server_st *servers = NULL;
     memcached_st *memc;

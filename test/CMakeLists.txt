@@ -12,7 +12,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${COMMON_CXX_FLAGS} -fprofile-arcs -ftes
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -fprofile-arcs -ftest-coverage")
 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -fprofile-arcs -ftest-coverage -lgcov")
 
-add_executable(${PROJECT_NAME} arucoPos.cpp)
+add_executable(${PROJECT_NAME} bottom_camera.cpp)
 
 # Try to see if user has OpenCV installed因为额
 # if yes, default callback will display the image

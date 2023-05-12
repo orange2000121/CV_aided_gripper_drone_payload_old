@@ -163,7 +163,6 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/local/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/local/include/opencv4/opencv2/core.hpp \
  /usr/local/include/opencv4/opencv2/core/cvdef.h \
- /usr/local/include/opencv4/opencv2/core/version.hpp \
  /usr/include/c++/10/limits \
  /usr/local/include/opencv4/opencv2/core/hal/interface.h \
  /usr/include/c++/10/cstddef \
@@ -173,6 +172,7 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/lib/gcc/aarch64-linux-gnu/10/include/arm_bf16.h \
  /usr/include/c++/10/array /usr/include/c++/10/utility \
  /usr/include/c++/10/bits/stl_relops.h \
+ /usr/local/include/opencv4/opencv2/core/version.hpp \
  /usr/local/include/opencv4/opencv2/core/base.hpp \
  /usr/include/c++/10/climits \
  /usr/lib/gcc/aarch64-linux-gnu/10/include/limits.h \
@@ -278,9 +278,6 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/local/include/opencv4/opencv2/flann/dynamic_bitset.h \
  /usr/local/include/opencv4/opencv2/flann/dist.h \
  /usr/local/include/opencv4/opencv2/flann/heap.h \
- /usr/include/c++/10/unordered_map /usr/include/c++/10/bits/hashtable.h \
- /usr/include/c++/10/bits/hashtable_policy.h \
- /usr/include/c++/10/bits/unordered_map.h \
  /usr/local/include/opencv4/opencv2/flann/allocator.h \
  /usr/local/include/opencv4/opencv2/flann/random.h \
  /usr/local/include/opencv4/opencv2/flann/kdtree_single_index.h \
@@ -297,7 +294,10 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/include/aarch64-linux-gnu/c++/10/bits/messages_members.h \
  /usr/include/libintl.h /usr/include/c++/10/bits/codecvt.h \
  /usr/include/c++/10/bits/locale_facets_nonio.tcc \
- /usr/include/c++/10/bits/locale_conv.h /usr/include/c++/10/math.h \
+ /usr/include/c++/10/bits/locale_conv.h /usr/include/c++/10/unordered_map \
+ /usr/include/c++/10/bits/hashtable.h \
+ /usr/include/c++/10/bits/hashtable_policy.h \
+ /usr/include/c++/10/bits/unordered_map.h /usr/include/c++/10/math.h \
  /usr/local/include/opencv4/opencv2/flann/autotuned_index.h \
  /usr/local/include/opencv4/opencv2/flann/ground_truth.h \
  /usr/local/include/opencv4/opencv2/flann/index_testing.h \
@@ -307,16 +307,10 @@ samples/sample_c++/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux_cxx.di
  /usr/local/include/opencv4/opencv2/imgcodecs.hpp \
  /usr/local/include/opencv4/opencv2/videoio.hpp \
  /usr/local/include/opencv4/opencv2/imgproc.hpp \
- /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp \
  /usr/local/include/opencv4/opencv2/ml.hpp \
  /usr/local/include/opencv4/opencv2/ml/ml.inl.hpp \
  /usr/local/include/opencv4/opencv2/objdetect.hpp \
  /usr/local/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/face.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/aruco_board.hpp \
- /usr/local/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
  /usr/local/include/opencv4/opencv2/photo.hpp \
  /usr/local/include/opencv4/opencv2/stitching.hpp \
  /usr/local/include/opencv4/opencv2/stitching/warpers.hpp \

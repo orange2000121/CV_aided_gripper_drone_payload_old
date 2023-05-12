@@ -26,7 +26,7 @@ while True:
     if len(corners) > 0:
         for i in range(len(ids)):
             # cv2.aruco.drawDetectedMarkers(frame, corners, ids)
-            rvec, tvec, markerPoints = cv2.aruco.estimatePoseSingleMarkers(corners[i], 0.02, mtx, dist)
+            rvec, tvec, markerPoints = cv2.aruco.estimatePoseSingleMarkers(corners[i], 0.181, mtx, dist)
         x = tvec[0][0][0]
         y = tvec[0][0][1]
         z = tvec[0][0][2]
